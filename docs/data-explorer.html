@@ -1,449 +1,85 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SRF2021 Data Explorer</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            line-height: 1.6;
-            color: #333;
-            background: #f5f7fa;
-        }
-
-        .container {
-            max-width: 1400px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-
-        .header {
-            background: white;
-            border-radius: 12px;
-            padding: 30px;
-            margin-bottom: 30px;
-            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-            text-align: center;
-        }
-
-        .filter-bar {
-            background: white;
-            border-radius: 12px;
-            padding: 20px;
-            margin-bottom: 20px;
-            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-            display: flex;
-            gap: 15px;
-            flex-wrap: wrap;
-            align-items: center;
-        }
-
-        .filter-bar input,
-        .filter-bar select {
-            padding: 10px;
-            border: 1px solid #ddd;
-            border-radius: 6px;
-            font-size: 14px;
-        }
-
-        .papers-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
-            gap: 20px;
-        }
-
-        .paper-card {
-            background: white;
-            border-radius: 12px;
-            padding: 20px;
-            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-            transition: transform 0.2s ease;
-        }
-
-        .paper-card:hover {
-            transform: translateY(-5px);
-        }
-
-        .paper-header {
-            border-bottom: 2px solid #eee;
-            padding-bottom: 15px;
-            margin-bottom: 15px;
-        }
-
-        .paper-id {
-            background: #3498db;
-            color: white;
-            padding: 4px 8px;
-            border-radius: 4px;
-            font-size: 12px;
-            font-weight: bold;
-            display: inline-block;
-            margin-bottom: 8px;
-        }
-
-        .paper-title {
-            font-size: 16px;
-            font-weight: 600;
-            color: #2c3e50;
-            margin-bottom: 8px;
-        }
-
-        .session-tag {
-            background: #e74c3c;
-            color: white;
-            padding: 2px 6px;
-            border-radius: 3px;
-            font-size: 11px;
-            display: inline-block;
-        }
-
-        .paper-meta {
-            font-size: 13px;
-            color: #7f8c8d;
-            margin-bottom: 10px;
-        }
-
-        .paper-abstract {
-            font-size: 14px;
-            line-height: 1.5;
-            color: #555;
-            margin-bottom: 15px;
-            max-height: 100px;
-            overflow: hidden;
-            position: relative;
-        }
-
-        .paper-abstract.expanded {
-            max-height: none;
-        }
-
-        .expand-btn {
-            color: #3498db;
-            cursor: pointer;
-            font-size: 12px;
-            text-decoration: underline;
-        }
-
-        .paper-links {
-            display: flex;
-            gap: 10px;
-            margin-top: 15px;
-        }
-
-        .pdf-link {
-            background: #27ae60;
-            color: white;
-            padding: 6px 12px;
-            border-radius: 4px;
-            text-decoration: none;
-            font-size: 12px;
-            display: inline-flex;
-            align-items: center;
-            gap: 4px;
-        }
-
-        .pdf-unavailable {
-            background: #95a5a6;
-            cursor: not-allowed;
-        }
-
-        .doi-link {
-            background: #9b59b6;
-            color: white;
-            padding: 6px 12px;
-            border-radius: 4px;
-            text-decoration: none;
-            font-size: 12px;
-        }
-
-        .loading {
-            text-align: center;
-            padding: 50px;
-            font-size: 18px;
-            color: #7f8c8d;
-        }
-
-        .stats-summary {
-            background: white;
-            border-radius: 12px;
-            padding: 20px;
-            margin-bottom: 20px;
-            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-            text-align: center;
-        }
-    </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NAPAC2025 Data Explorer</title>
+<style>
+body { font-family: 'Segoe UI', sans-serif; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); margin: 0; padding: 20px; }
+.container { max-width: 1400px; margin: 0 auto; }
+.header { background: white; border-radius: 15px; padding: 25px; margin-bottom: 20px; box-shadow: 0 8px 32px rgba(0,0,0,0.1); }
+.header h1 { color: #2c3e50; margin-bottom: 10px; }
+.back-link { display: inline-block; margin-top: 10px; color: #3498db; text-decoration: none; font-weight: 600; }
+.controls { background: white; border-radius: 12px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
+.search-box { width: 100%; padding: 12px 20px; font-size: 16px; border: 2px solid #ddd; border-radius: 8px; margin-bottom: 15px; }
+.search-box:focus { outline: none; border-color: #3498db; }
+.filters { display: flex; gap: 15px; flex-wrap: wrap; }
+.filter-group { flex: 1; min-width: 200px; }
+.filter-group label { display: block; margin-bottom: 5px; font-weight: 600; color: #2c3e50; }
+.filter-group select { width: 100%; padding: 10px; border: 2px solid #ddd; border-radius: 8px; font-size: 14px; }
+.info-box { background: white; border-radius: 12px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); text-align: center; }
+.info-box h3 { color: #2c3e50; margin-bottom: 10px; }
+.btn { background: #3498db; color: white; border: none; padding: 10px 20px; border-radius: 8px; cursor: pointer; font-weight: 600; text-decoration: none; display: inline-block; margin: 5px; }
+.btn:hover { background: #2980b9; }
+</style>
 </head>
-
 <body>
-    <div class="container">
-        <div class="header">
-            <h1>SRF2021 Data Explorer</h1>
-            <p>Interactive Conference Papers Database</p>
-        </div>
-
-        <div class="stats-summary">
-            <div id="stats-display">Loading statistics...</div>
-        </div>
-
-        <div class="filter-bar">
-            <input type="text" id="search-input" placeholder="Search papers, authors, abstracts...">
-            <select id="session-filter">
-                <option value="">All Sessions</option>
-            </select>
-            <select id="file-filter">
-                <option value="">All Papers</option>
-                <option value="presentation">Presentation Available</option>
-                <option value="paper">Paper Available</option>
-                <option value="poster">Poster Available</option>
-                <option value="any">Any File Available</option>
-            </select>
-            <button onclick="clearFilters()"
-                style="padding: 10px 15px; background: #e74c3c; color: white; border: none; border-radius: 6px; cursor: pointer;">Clear
-                Filters</button>
-        </div>
-
-        <div class="loading" id="loading">Loading SRF2021 conference data...</div>
-        <div class="papers-grid" id="papers-grid" style="display: none;"></div>
-    </div>
-
-    <script>
-        let allPapers = [];
-        let filteredPapers = [];
-
-        // Load data from local file or GitHub
-        async function loadData() {
-            try {
-                // Try loading from local file first
-                let response;
-                try {
-                    response = await fetch('./SRF2021_Data/SRF2021_Complete_Index.json');
-                    // Check if we got HTML instead of JSON (indicates 404 or server error)
-                    const contentType = response.headers.get('content-type');
-                    if (contentType && contentType.includes('text/html')) {
-                        throw new Error('Received HTML response instead of JSON');
-                    }
-                } catch (localError) {
-                    console.log('Local file not accessible, trying alternative path...');
-                    // Try alternative path
-                    response = await fetch('SRF2021_Data/SRF2021_Complete_Index.json');
-                    const contentType = response.headers.get('content-type');
-                    if (contentType && contentType.includes('text/html')) {
-                        throw new Error('Received HTML response instead of JSON');
-                    }
-                }
-
-                const data = await response.json();
-
-                // Extract papers from sessions
-                allPapers = [];
-                data.sessions.forEach(sessionData => {
-                    sessionData.papers.forEach(paper => {
-                        paper.session_name = sessionData.session_info.name;
-                        paper.session_prefix = sessionData.session_info.id;
-                        allPapers.push(paper);
-                    });
-                });
-
-                filteredPapers = [...allPapers];
-                updateStats();
-                populateFilters();
-                renderPapers();
-
-                document.getElementById('loading').style.display = 'none';
-                document.getElementById('papers-grid').style.display = 'grid';
-
-            } catch (error) {
-                console.error('Error loading data:', error);
-                const loadingEl = document.getElementById('loading');
-                loadingEl.innerHTML = `
-                    <div style="color: #e74c3c; text-align: center;">
-                        <h3>❌ Error Loading Data</h3>
-                        <p><strong>Error:</strong> ${error.message}</p>
-                        <p><strong>Possible Solutions:</strong></p>
-                        <ul style="text-align: left; display: inline-block; margin: 10px 0;">
-                            <li>1. Open this HTML file using a local web server</li>
-                            <li>2. Use: <code>python -m http.server 8000</code> in the project directory</li>
-                            <li>3. Then visit: <code>http://localhost:8000/data-explorer.html</code></li>
-                            <li>4. Or use VS Code's Live Server extension</li>
-                        </ul>
-                        <p><strong>Alternative:</strong> View the data directly on <a href="https://github.com/iuming/srf2023_scraper" target="_blank" style="color: #3498db;">GitHub</a></p>
-                    </div>
-                `;
-            }
-        }
-
-        function updateStats() {
-            const totalPapers = allPapers.length;
-            const availablePresentations = allPapers.filter(p => p.presentation_available).length;
-            const availablePapers = allPapers.filter(p => p.paper_available).length;
-            const availablePosters = allPapers.filter(p => p.poster_available).length;
-            const anyFileAvailable = allPapers.filter(p => p.presentation_available || p.paper_available || p.poster_available).length;
-            const filteredCount = filteredPapers.length;
-
-            document.getElementById('stats-display').innerHTML = `
-                <strong>Showing ${filteredCount} of ${totalPapers} papers</strong> | 
-                ${availablePresentations} presentations, ${availablePapers} papers, ${availablePosters} posters available (${((anyFileAvailable / totalPapers) * 100).toFixed(1)}% have files)
-            `;
-        }
-
-        function populateFilters() {
-            const sessionFilter = document.getElementById('session-filter');
-            const sessions = [...new Set(allPapers.map(p => p.session_name))].sort();
-
-            sessions.forEach(session => {
-                const option = document.createElement('option');
-                option.value = session;
-                option.textContent = session;
-                sessionFilter.appendChild(option);
-            });
-        }
-
-        function renderPapers() {
-            const grid = document.getElementById('papers-grid');
-            grid.innerHTML = '';
-
-            filteredPapers.forEach(paper => {
-                const card = createPaperCard(paper);
-                grid.appendChild(card);
-            });
-        }
-
-        function createPaperCard(paper) {
-            const card = document.createElement('div');
-            card.className = 'paper-card';
-
-            const abstractPreview = paper.abstract ?
-                (paper.abstract.length > 200 ? paper.abstract.substring(0, 200) + '...' : paper.abstract) :
-                'No abstract available';
-
-            const authorsText = paper.authors && paper.authors.length > 0 ?
-                paper.authors.join(', ') : 'Authors not specified';
-
-            const institutionsText = paper.institutions && paper.institutions.length > 0 ?
-                paper.institutions.join('; ') : 'Institutions not specified';
-
-            card.innerHTML = `
-                <div class="paper-header">
-                    <div class="paper-id">${paper.paper_id}</div>
-                    <div class="paper-title">${paper.title}</div>
-                    <span class="session-tag">${paper.session_prefix}</span>
-                </div>
-                
-                <div class="paper-meta">
-                    <div><strong>Authors:</strong> ${authorsText}</div>
-                    ${institutionsText !== 'Institutions not specified' ? `<div><strong>Institutions:</strong> ${institutionsText}</div>` : ''}
-                    ${paper.page_number ? `<div><strong>Page:</strong> ${paper.page_number}</div>` : ''}
-                </div>
-                
-                <div class="paper-abstract" id="abstract-${paper.paper_id}">
-                    ${abstractPreview}
-                    ${paper.abstract && paper.abstract.length > 200 ?
-                    `<div class="expand-btn" onclick="toggleAbstract('${paper.paper_id}')">Read more</div>` :
-                    ''}
-                </div>
-                
-                <div class="paper-links">
-                    <a href="${paper.presentation_url}" 
-                       class="pdf-link ${!paper.presentation_available ? 'pdf-unavailable' : ''}"
-                       ${!paper.presentation_available ? 'style="pointer-events: none;"' : 'target="_blank"'}>
-                        📊 ${paper.presentation_available ? 'Presentation' : 'Presentation N/A'}
-                    </a>
-                    <a href="${paper.paper_url}" 
-                       class="pdf-link ${!paper.paper_available ? 'pdf-unavailable' : ''}"
-                       ${!paper.paper_available ? 'style="pointer-events: none;"' : 'target="_blank"'}>
-                        📄 ${paper.paper_available ? 'Paper' : 'Paper N/A'}
-                    </a>
-                    <a href="${paper.poster_url}" 
-                       class="pdf-link ${!paper.poster_available ? 'pdf-unavailable' : ''}"
-                       ${!paper.poster_available ? 'style="pointer-events: none;"' : 'target="_blank"'}>
-                        📋 ${paper.poster_available ? 'Poster' : 'Poster N/A'}
-                    </a>
-                    ${paper.doi ? `<a href="${paper.doi}" class="doi-link" target="_blank">🔗 DOI</a>` : ''}
-                </div>
-            `;
-
-            return card;
-        }
-
-        function toggleAbstract(paperId) {
-            const abstractEl = document.getElementById(`abstract-${paperId}`);
-            const paper = allPapers.find(p => p.paper_id === paperId);
-
-            if (abstractEl.classList.contains('expanded')) {
-                abstractEl.classList.remove('expanded');
-                abstractEl.innerHTML = paper.abstract.substring(0, 200) + '...' +
-                    '<div class="expand-btn" onclick="toggleAbstract(\'' + paperId + '\')">Read more</div>';
-            } else {
-                abstractEl.classList.add('expanded');
-                abstractEl.innerHTML = paper.abstract +
-                    '<div class="expand-btn" onclick="toggleAbstract(\'' + paperId + '\')">Show less</div>';
-            }
-        }
-
-        function applyFilters() {
-            const searchTerm = document.getElementById('search-input').value.toLowerCase();
-            const sessionFilter = document.getElementById('session-filter').value;
-            const fileFilter = document.getElementById('file-filter').value;
-
-            filteredPapers = allPapers.filter(paper => {
-                const matchesSearch = !searchTerm ||
-                    paper.title.toLowerCase().includes(searchTerm) ||
-                    paper.paper_id.toLowerCase().includes(searchTerm) ||
-                    (paper.authors && paper.authors.join(' ').toLowerCase().includes(searchTerm)) ||
-                    (paper.abstract && paper.abstract.toLowerCase().includes(searchTerm));
-
-                const matchesSession = !sessionFilter || paper.session_name === sessionFilter;
-
-                let matchesFile = true;
-                if (fileFilter) {
-                    switch (fileFilter) {
-                        case 'presentation':
-                            matchesFile = paper.presentation_available;
-                            break;
-                        case 'paper':
-                            matchesFile = paper.paper_available;
-                            break;
-                        case 'poster':
-                            matchesFile = paper.poster_available;
-                            break;
-                        case 'any':
-                            matchesFile = paper.presentation_available || paper.paper_available || paper.poster_available;
-                            break;
-                    }
-                }
-
-                return matchesSearch && matchesSession && matchesFile;
-            });
-
-            updateStats();
-            renderPapers();
-        }
-
-        function clearFilters() {
-            document.getElementById('search-input').value = '';
-            document.getElementById('session-filter').value = '';
-            document.getElementById('file-filter').value = '';
-            filteredPapers = [...allPapers];
-            updateStats();
-            renderPapers();
-        }
-
-        // Event listeners
-        document.getElementById('search-input').addEventListener('input', applyFilters);
-        document.getElementById('session-filter').addEventListener('change', applyFilters);
-        document.getElementById('file-filter').addEventListener('change', applyFilters);
-
-        // Load data when page loads
-        loadData();
-    </script>
+<div class="container">
+<div class="header">
+<h1> NAPAC2025 Data Explorer</h1>
+<p>Interactive paper browser and search interface</p>
+<a href="index.html" class="back-link"> Back to Home</a>
+</div>
+<div class="controls">
+<input type="text" id="searchBox" class="search-box" placeholder="Search by paper ID, title, author, or abstract...">
+<div class="filters">
+<div class="filter-group">
+<label for="sessionFilter">Filter by Session:</label>
+<select id="sessionFilter">
+<option value="">All Sessions</option>
+<option value="SUP">SUP - Sunday Student Poster</option>
+<option value="MOP">MOP - Monday Poster</option>
+<option value="TUP">TUP - Tuesday Poster</option>
+<option value="WEP">WEP - Wednesday Poster</option>
+<option value="THP">THP - Thursday Poster</option>
+<option value="MOXP">MOXP - Monday Plenary</option>
+</select>
+</div>
+<div class="filter-group">
+<label for="pdfFilter">PDF Availability:</label>
+<select id="pdfFilter">
+<option value="">All Papers</option>
+<option value="yes">PDF Available</option>
+<option value="no">No PDF</option>
+</select>
+</div>
+<div class="filter-group">
+<label for="sortBy">Sort By:</label>
+<select id="sortBy">
+<option value="id">Paper ID</option>
+<option value="session">Session</option>
+<option value="title">Title</option>
+</select>
+</div>
+</div>
+</div>
+<div class="info-box">
+<h3>Data Loading Instructions</h3>
+<p>To use this explorer with real data:</p>
+<ol style="text-align: left; max-width: 600px; margin: 0 auto;">
+<li>Clone the repository: <code>git clone https://github.com/iuming/NAPAC2025_scraper.git</code></li>
+<li>Load <code>NAPAC2025_Data/NAPAC2025_All_Papers.csv</code> or JSON data</li>
+<li>Or run locally: <code>python -m http.server</code> in the project directory</li>
+</ol>
+<p style="margin: 20px 0;">
+<strong>Quick Stats:</strong><br>
+ 476 total papers |  41 sessions |  400+ PDFs available
+</p>
+<p>
+<a href="https://github.com/iuming/NAPAC2025_scraper/blob/main/NAPAC2025_Data/NAPAC2025_All_Papers.csv" 
+class="btn" target="_blank">View Full CSV Data on GitHub</a>
+</p>
+</div>
+</div>
 </body>
-
 </html>
