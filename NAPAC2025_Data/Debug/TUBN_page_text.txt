@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+        Novel Particle Sources, Acceleration Techniques, and their Applications (Contributed)
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        NAPAC2025 - Proceedings Sacramento, CA, USA
+
+
+Home
+        — Session
+        — Classification
+        — Authors 
+Institutes
+        — DOI of Institutes
+        — Keywords
+
+
+
+
+
+
+
+
+
+TUBN
+
+
+                -
+            
+
+                Novel Particle Sources, Acceleration Techniques, and their Applications (Contributed)
+            
+
+                12 Aug 2025, 11:30 -
+                12:30
+            
+
+
+TUBN01Flat beam PWFA theory and experiment at AWA314A wakefield experiment at the Argonne Wakefield Accelerator (AWA) facility utilizes flat electron beams with highly asymmetric transverse emittances to drive plasma wakefields in the underdense regime. These beams create elliptical blowout structures, producing asymmetric transverse focusing forces. The experiment utilizes a compact 4-cm-long capillary discharge plasma source developed at UCLA. Analytic models of blowout ellipticity and matching conditions, supported by particle-in-cell simulations, guide the experiment's design. Engineering preparations including the use of windows for vacuum-gas separation, beam transport and diagnostics are discussed along with the first beam runs which involve flat beam generation and transport. The theory of flat beam plasma wakefield interaction will also be discussedA. Ody, E. Wisniewski, J. Power, P. Piot, R. Scott, W. Liu  Argonne National LaboratoryC. Manna  Istituto Nazionale di Fisica Nucleare, Laboratori Nazionali del SudG. Andonian, J. Rosenzweig, J. Mann, P. Manwani  University of California, Los AngelesN. Majernik  SLAC National Accelerator LaboratoryY. Kang  Particle Beam Physics Lab (PBPL)Paper: TUBN01DOI: reference for this paper: 10.18429/JACoW-NAPAC2025-TUBN01About:  Received: 09 Aug 2025 — Revised: 13 Aug 2025 — Accepted: 14 Aug 2025 — Issue date: 08 Oct 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+TUBN02Advanced THz Deflectors for Attosecond MeV-UED TimingTimestamping electron pulses is a promising strategy for improving the overall temporal resolution of the MeV UED beamline. Timestamping can be achieved with a time-varying deflection of the beam: the deflection angle records the time of arrival of the pulse, from which it is possible to accurately read back the pump-probe delay shot-by-shot. This proposal targets the demonstration of ultrastrong deflection from an optimized, precision machined copper horn structure excited by a tilted pulse front THz source. The tapered horn structure provides an extremely high deflecting field. We show results of a recent experiment aims to go beyond earlier successful proof-of-concept results by determining optimal design parameters for UED. One important parameter is the diameter of the exit aperture in the horn (through which the electron beam must pass before being collected on the detector). The choice of aperture diameter involves a trade-off between (a) field enhancement from a small aperture diameter, delivering a larger kick for a given THz pulse energy, and (b) higher electron beam transmission from a larger aperture, providing better statistics for measuring the beam centroid and finer substructure.M. Othman  SLAC National Accelerator LaboratoryCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+TUBN03Picometer-scale emittance and space charge effects in nanostructured photocathodes317Generation of ultralow-emittance electron beams with high brightness is critical for several applications such as ultrafast electron diffraction, microscopy, and advanced accelerator techniques. By leveraging the differences in work function and electronic structure between different materials, we enabled spatially localized photoemission, resulting in picometer-scale emittance from a flat photocathode. We also investigated space charge effects by measuring how the emission spot size, as measured in a photoemission electron microscope, changes with the number of electrons emitted per laser pulse. When more than one electron is emitted simultaneously, Coulomb repulsion causes a substantial broadening of the observed source size, enabling us to investigate the limitations imposed by vacuum space charge forces during pulsed photoemission. Our results highlight the potential of nanoscale photoemitters as high-brightness electron sources and offer new insights into electron correlations that emerge after ultrafast photoemission.A. Ullattuparambil, M. Moeini Rizi, P. Owusu, S. Karkare  Arizona State UniversityM. Kaemingk  Los Alamos National LaboratoryA. Bartnik, J. Maxson  Cornell UniversityM. Gordon, C. Abbamonte, S. Levenson  Cornell University (CLASSE)Paper: TUBN03DOI: reference for this paper: 10.18429/JACoW-NAPAC2025-TUBN03About:  Received: 03 Aug 2025 — Revised: 12 Aug 2025 — Accepted: 15 Aug 2025 — Issue date: 08 Oct 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+
+
+

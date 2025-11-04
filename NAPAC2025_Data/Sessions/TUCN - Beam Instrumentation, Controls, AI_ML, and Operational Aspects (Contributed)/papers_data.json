@@ -1,0 +1,41 @@
+{
+  "session_info": {
+    "id": "TUCN",
+    "name": "TUCN - Beam Instrumentation, Controls, AI/ML, and Operational Aspects (Contributed)",
+    "url": "https://meow.elettra.eu/97/session/1200-tucn/index.html"
+  },
+  "papers": [
+    {
+      "paper_id": "TUCN02",
+      "title": "Electro-optic sampling beam positioning monitor for relativistic electron beams331Non-destructive diagnostics able to resolve transverse offsets and longitudinal separation of ultra-relativistic, two-bunch electron beams are necessary for a variety of applications including the ion channel laser (ICL) and other plasma wakefield (PWFA) experiments. A prototype electro-optic beam positioning monitor (EOS-BPM) utilizing two independent laser pulses traveling through a pair of EO crystals has been installed at the SLAC National Accelerator Laboratory FACET-II facility. This system is capable of order 10 fs temporal resolution and order 100 µm transverse position resolution. To achieve better transverse resolution we introduce a new design using an axicon lens to create a donut beam and a multi-crystal structure placed around the axis of propagation of the electron beam. Experimental results of the prototype EOS-BPM along with the simulated response of the new EOS-BPM design to the ultra-relativistic, two-bunch electron beam used for PWFA experiments at FACET-II will be presented.",
+      "authors": [],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "",
+      "paper_url": "https://meow.elettra.eu/97/pdf/TUCN02.pdf",
+      "poster_url": "",
+      "doi": "https://doi.org/10.18429/JACoW-NAPAC2025-TUCN02",
+      "page_number": "",
+      "presentation_available": false,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUCN03",
+      "title": "SRF cavity instability detection with machine learning at CEBAF335During the operation of the Continuous Electron Beam Accelerator Facility (CEBAF), one or more unstable superconducting radio-frequency (SRF) cavities often cause beam loss trips while the unstable cavities themselves do not necessarily trip off. The present RF controls for the legacy cavities report at only 1 Hz, which is too slow to detectfast transient instabilities during these trip events. These challenges make the identification of an unstable cavity out of the hundreds installed at CEBAF a difficult and time-consuming task. To tackle these issues, a fast data acquisition system (DAQ) for the legacy SRF cavities has been developed, which records the sample at 5 kHz. An unsupervised learning framework has been developed to identify anomalous SRF cavity behavior. We will discuss the present status of the DAQ system and our framework, along with recent successes in detecting anomalous cavity behavior. Overall, our method offers a practical solution for identifying unstable SRF cavities, contributing to increased beam availability and machine reliability.",
+      "authors": [],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "",
+      "paper_url": "https://meow.elettra.eu/97/pdf/TUCN03.pdf",
+      "poster_url": "",
+      "doi": "https://doi.org/10.18429/JACoW-NAPAC2025-TUCN03",
+      "page_number": "",
+      "presentation_available": false,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 2,
+  "scrape_time": "2025-11-03 23:59:01"
+}

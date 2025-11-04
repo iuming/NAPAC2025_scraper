@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+
+        Colliders and other Particle and Nuclear Physics Accelerators (Invited)
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        NAPAC2025 - Proceedings Sacramento, CA, USA
+
+
+Home
+        — Session
+        — Classification
+        — Authors 
+Institutes
+        — DOI of Institutes
+        — Keywords
+
+
+
+
+
+
+
+
+
+FRXD
+
+
+                -
+            
+
+                Colliders and other Particle and Nuclear Physics Accelerators (Invited)
+            
+
+                15 Aug 2025, 09:00 -
+                09:30
+            
+
+
+FRXD01Progress towards the US-based muon colliderA multi-TeV muon collider has the unique potential to provide both precision measurements and the highest energy reach in one machine that cannot be paralleled by any currently available technology. There has been significant physics interest on Muon Colliders recently as indicated by the formation of the International Muon Collider Collaboration but also the recent P5 report. This study describes a possible set of R&D and deliverables of the muon collider accelerator R&D program in the U.S. We describe high-priority studies to be performed in the first phase that will address critical questions for deciding the future plan for a muon collider design. The goal of these studies is to firm up choices for the most challenging components of a muon collider design, and to propose and begin testing and prototyping of components and systems that are needed to have confidence in and inform our specification choices. Key areas wherein the US can provide critical contributions to the newly formed international muon collider collaboration will be discussed as well.D. Stratakis  Fermi National Accelerator LaboratoryCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+
+
+

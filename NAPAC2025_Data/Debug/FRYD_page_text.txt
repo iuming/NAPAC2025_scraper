@@ -1,0 +1,73 @@
+
+
+
+
+
+
+
+
+
+        Friday Plenary
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        NAPAC2025 - Proceedings Sacramento, CA, USA
+
+
+Home
+        — Session
+        — Classification
+        — Authors 
+Institutes
+        — DOI of Institutes
+        — Keywords
+
+
+
+
+
+
+
+
+
+FRYD
+
+
+                -
+            
+
+                Friday Plenary
+            
+
+                15 Aug 2025, 11:00 -
+                13:00
+            
+
+
+FRYD01Physics with extreme beams at FACET-IIWith today’s accelerator facilities such as the 10 GeV FACET-II facility at SLAC National Accelerator Laboratory, extreme beam physics is emerging as a promising science area where ultrashort and dense electron beams can be used as a source of TV/m fields, enabling high field matter interaction and new applications in photon science and particle acceleration. By delivering extreme beams with peak current reaching 100 kA and enabling its interaction with lasers, plasmas, and solids, FACET-II has a broad science program ranging from high-field plasma-based acceleration, laboratory astrophysics, extreme focusing and attosecond sources, FCC-ee studies and laser particle control and collimation for colliders, and probing quantum electrodynamics near the Schwinger critical field. After presenting an overview of the physics opportunities offered by the FACET-II facility, I will highlight recent breakthroughs achieved at FACET-II, such as the most precise measurements of quantum radiation reaction to date, the generation of 100-kA class beams by laser-electron beam shaping, the demonstration of a brightness and energy transformer, efficient plasma acceleration with percent-level field uniformity, wakefield mapping and probing, and extreme beam focusing by leveraging intense coherent transition radiation in the near field or plasma fields.S. Corde  Laboratoire d'Optique AppliquéeCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+FRYD02Accelerating Discoveries in Particle PhysicsParticle accelerators have played a critical role in high-energy physics for many decades. They have facilitated the discovery of elementary particles at the smallest scales and the study of fundamental interactions at the highest energies. The increasing size and cost of these facilities have turned them into truly international projects. Next-generation accelerators will advance the frontiers of accelerator science through extensive R&D, develop new technical applications, and offer opportunities to discover new physics. In this talk, I will describe the global process and planning efforts for the next large accelerators, with a particular focus on the recent Particle Physics Project Prioritization Process (P5) in the US and the European Strategy for Particle Physics Update. I will summarize the scientific opportunities and technical challenges, and outline the political and sociological difficulties associated with realizing such projects. I will conclude with a vision for the role of accelerators in the future of high-energy physics and beyond.K. Heeger  Yale UniversityCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+FRYD03Ignition Achieved: Next Steps in the Path Toward an Inertial Fusion Energy FutureThe achievement of ignition on the National Ignition Facility in 2022 demonstrated the fundamental feasibility of controlled thermonuclear fusion in the laboratory for energy gain, and was the first major hurdle in efficiently harvesting fusion energy through inertial fusion energy (IFE). Excitement has been growing worldwide, with notable activity in the public and private sectors. To make IFE commercially viable, however, there are still significant scientific, engineering, workforce, and economic hurdles. This talk will review the advancements that made the ignition breakthrough possible, provide an overview of the international IFE landscape, and describe the remaining gaps and challenges that must be solved to realize IFE laser inertial fusion as a path for clean energy and energy security.T. Ma  Lawrence Livermore National LaboratoryCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+FRYD04Closing RemarksT. Raubenheimer  SLAC National Accelerator LaboratoryCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+
+
+

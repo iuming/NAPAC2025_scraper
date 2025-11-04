@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+
+        Novel Particle Sources, Acceleration Techniques, and their Applications (Invited)
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        NAPAC2025 - Proceedings Sacramento, CA, USA
+
+
+Home
+        — Session
+        — Classification
+        — Authors 
+Institutes
+        — DOI of Institutes
+        — Keywords
+
+
+
+
+
+
+
+
+
+TUYN
+
+
+                -
+            
+
+                Novel Particle Sources, Acceleration Techniques, and their Applications (Invited)
+            
+
+                12 Aug 2025, 11:00 -
+                11:30
+            
+
+
+TUYN01Design of Plasma-Based CollidersThis presentation covers the design of plasma and wakefield-based particle colliders. It will briefly review the development of wakefield collider concepts over the past decades and then focus on the HALHF Higgs Factory and 10 TeV pCM Wakefield Collider design studies, discuss commonalities between these efforts and highlight their unique aspects.J. Osterhoff  Lawrence Berkeley National LaboratoryS. Gessner  SLAC National Accelerator LaboratoryCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+
+
+

@@ -1,0 +1,32 @@
+Session: TUCD - Accelerator Technology and Sustainability (Contributed)
+Session ID: TUCD
+URL: https://meow.elettra.eu/97/session/1176-tucd/index.html
+Scrape time: 2025-11-03 23:58:52
+Paper count: 2
+Available presentations: 0/2
+Available papers: 1/2
+Available posters: 0/2
+================================================================================
+
+1. Paper ID: TUCD03
+   Title: Operation and R&D of liquid lithium charge stripper at
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/TUCD03.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-TUCD03
+------------------------------------------------------------
+2. Paper ID: FRIB327
+   Title: Charge stripping is an essential technique for the efficient acceleration of heavy ions. The Facility for Rare Isotope Beams (FRIB) utilizes the Liquid Lithium Charge Stripper (LLCS) to produce the world’s most powerful heavy ion beams, so far demonstrated up to 20 kW with 200 MeV/u energy. In the FRIB driver linac, electrons are stripped by a thin film jet of liquid lithium flowing at 50 m/s. The LLCS has been in operation with FRIB’s linac since 2022 and will support the future ramp-up of the beam power to 400 k
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✗ Not available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: 
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-FRIB327
+------------------------------------------------------------

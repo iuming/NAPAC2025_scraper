@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+
+        Photon Sources and Electron Accelerators (Invited)
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        NAPAC2025 - Proceedings Sacramento, CA, USA
+
+
+Home
+        — Session
+        — Classification
+        — Authors 
+Institutes
+        — DOI of Institutes
+        — Keywords
+
+
+
+
+
+
+
+
+
+WEZN
+
+
+                -
+            
+
+                Photon Sources and Electron Accelerators (Invited)
+            
+
+                13 Aug 2025, 14:00 -
+                14:30
+            
+
+
+WEZN01Design progress for the 22 GeV CEBAF energy upgrade664In this work we examine the progress made in the design of the proposed FFA upgrade to the Continuous Electron Beam Accelerator Facility (CEBAF). This proposed upgrade will double the number of passes through the two linacs by replacing the two highest energy arcs with new Fixed Field Alternating Gradient (FFA) arcs, roughly doubling the energy. These FFA arcs will use permanent magnets in a Halbach configuration to shape their fields. The design involves new optics for the linacs and remaining electromagnetic arcs, as well as new electromagnetic separators. These feed into the permanent magnet FFA arcs. We also report on ongoing studies of the dynamics of the beams, and an experiment to measure the effects of radiation on the permanent magnets.E. Nissen, A. Bogacz, A. Coxe, A. Seryi, B. Gamage, D. Khan, I. Neththikumara, K. Deitrick, N. Sereno, R. Kazimi, R. Ruber, R. Bodenstein, S. Ogur, T. Satogata, Y. Roblin  Thomas Jefferson National Accelerator FacilityD. Trbojevic, J. Berg, S. Brooks  Brookhaven National LaboratoryG. Hoffstaetter  Cornell UniversityV. Morozov  Oak Ridge National LaboratoryPaper: WEZN01DOI: reference for this paper: 10.18429/JACoW-NAPAC2025-WEZN01About:  Received: 06 Aug 2025 — Revised: 13 Aug 2025 — Accepted: 14 Aug 2025 — Issue date: 08 Oct 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+
+
+

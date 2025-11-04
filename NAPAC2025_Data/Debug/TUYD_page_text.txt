@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+
+        Hadron Accelerators (Invited)
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        NAPAC2025 - Proceedings Sacramento, CA, USA
+
+
+Home
+        — Session
+        — Classification
+        — Authors 
+Institutes
+        — DOI of Institutes
+        — Keywords
+
+
+
+
+
+
+
+
+
+TUYD
+
+
+                -
+            
+
+                Hadron Accelerators (Invited)
+            
+
+                12 Aug 2025, 11:00 -
+                11:30
+            
+
+
+TUYD01Laser Assisted Charge Exchange injection at the Spallation Neutron Source298Laser Assisted Charge Exchange (LACE) technology is being developed to replace foil-based charge exchange injection in high power H- accelerators. The possibility of replacing the foil with field-stripping will greatly reduce injection losses, and therefore is a promising technology for future high-intensity multi-megawatt power H- beams. The technique of LACE has been demonstrated but not in a configuration that allows injection of beam into a ring. This talk will present recent progress on design of a demonstrator at SNS that will allow injection into the SNS ring. The committee also hopes that this talk will review previous experimental results from LACE feasibility studies.F. Lin, A. Aleksandrov, A. Menshov, A. Zhukov, A. Shishlo, N. Evans, O. Abdurahim, S. Cousineau, T. Gorlov, Y. Liu  Oak Ridge National LaboratoryL. Chapman  Tennessee Technological UniversityPaper: TUYD01DOI: reference for this paper: 10.18429/JACoW-NAPAC2025-TUYD01About:  Received: 08 Aug 2025 — Revised: 13 Aug 2025 — Accepted: 14 Aug 2025 — Issue date: 08 Oct 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+
+
+

@@ -1,0 +1,21 @@
+Session: THYN - Accelerator Technology and Sustainability (Invited)
+Session ID: THYN
+URL: https://meow.elettra.eu/97/session/1193-thyn/index.html
+Scrape time: 2025-11-04 00:08:56
+Paper count: 1
+Available presentations: 0/1
+Available papers: 1/1
+Available posters: 0/1
+================================================================================
+
+1. Paper ID: THYN01
+   Title: How nitrogen and oxygen shape SRF cavity performance932Nitrogen and oxygen-based surface treatments have revolutionized the performance of superconducting radiofrequency (SRF) cavities, enabling them to reach higher gradients and lower losses. However, the exact mechanisms by which these treatments improve cavity performance remain largely unknown. This work provides new insights into the role of nitrogen and oxygen in SRF cavity performance by using time-of-flight secondary ion mass spectrometry (TOF-SIMS) to precisely quantify the concentrations and depth profiles of these impurities within niobium cutouts. We correlate these impurity profiles with detailed cavity performance measurements, including surface resistance and quality factor, and compare our findings with predictions from BCS theory. The results demonstrate that while both nitrogen and oxygen enhance performance, ten times more oxygen is required to achieve the same reduction in BCS resistance as interstitial nitrogen. We present a potential model in which the observed variation arises from nitrogen's greater effectiveness in trapping hydrogen, thus reducing the formation of niobium hydrides and enhancing superconducting gap.
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/THYN01.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-THYN01
+------------------------------------------------------------

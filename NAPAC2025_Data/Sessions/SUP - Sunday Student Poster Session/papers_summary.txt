@@ -1,0 +1,948 @@
+Session: SUP - Sunday Student Poster Session
+Session ID: SUP
+URL: https://meow.elettra.eu/97/session/1160-sup/index.html
+Scrape time: 2025-11-03 23:52:58
+Paper count: 67
+Available presentations: 0/67
+Available papers: 66/67
+Available posters: 0/67
+================================================================================
+
+1. Paper ID: SUP001
+   Title: Preliminary study of space charge and beam-beam interplay in a collider ring
+   Authors: H. Alamprese
+   Institutions: Facility for Rare Isotope Beams, Michigan State University; Lawrence Berkeley National Laboratory; Michigan State University
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/TUP080.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-TUP080
+   Abstract: Hadron Collider Rings offer unprecedented opportunities to address fundamental scientific questions in particle and nuclear physics. To achieve these ambitious goals, the colliders must deliver exceptionally high levels of luminosity, hence require high intensity hadron beam in the ring, which leads...
+------------------------------------------------------------
+2. Paper ID: SUP002
+   Title: Development of a Density Functional Theory Approach for Calculating Electronic Band Structure Parameters in Support of Monte Carlo Simulations of Photoemission
+   Authors: J. Mendez
+   Institutions: Northern Illinois University; Brookhaven National Laboratory; University of Puerto Rico at Río Piedras; Arizona State University
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/TUP030.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-TUP030
+   Abstract: Monte Carlo simulations are a powerful tool for modeling photoemission from photocathodes, enabling the prediction of key parameters such as quantum efficiency, mean transverse energy, electron spin polarization, and photocathode response time. However, these simulations require material band struct...
+------------------------------------------------------------
+3. Paper ID: SUP003
+   Title: IOTA Experiment for Proton Pulse Compression at Extreme Space-Charge
+   Authors: B. Simons
+   Institutions: Northern Illinois University, Fermi National Accelerator Laboratory; Fermi National Accelerator Laboratory; Northern Illinois University
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/TUP055.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-TUP055
+   Abstract: The longitudinal compression of intense proton bunches with strong space-charge force is an essential component of a proton driver for a muon collider. We propose a proton bunch compression experiment at the Integrable Optics Test Accelerator (IOTA) storage ring at Fermilab to explore optimal radio ...
+------------------------------------------------------------
+4. Paper ID: SUP004
+   Title: Matching the Beam from AGS to the EIC Hadron Storage Ring with Excellent Emittance Preservation
+   Authors: A. Jiang
+   Institutions: Ward Melville High School; Brookhaven National Laboratory
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/TUP062.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-TUP062
+   Abstract: The Electron-Ion Collider (EIC), a next-generation accelerator facility, is being jointly developed by Brookhaven National Laboratory (BNL) and Jefferson Lab (JLab), and will be constructed at BNL. The EIC design builds upon the existing RHIC heavy-ion infrastructure, transforming the RHIC rings int...
+------------------------------------------------------------
+5. Paper ID: SUP005
+   Title: Multi-objective optimization of strong hadron cooler Energy Recovery Linac injector
+   Authors: N. Wang
+   Institutions: Cornell University; Brookhaven National Laboratory; Thomas Jefferson National Accelerator Facility
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/TUP069.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-TUP069
+   Abstract: The Strong Hadron Cooler (SHC) proposed for the Electron-Ion Collider (EIC) requires high-current, low-emittance electron bunches with minimal energy spread. The Energy Recovery Linac (ERL) injector plays a critical role in shaping the beam before acceleration. We present a multi-objective optimizat...
+------------------------------------------------------------
+6. Paper ID: SUP006
+   Title: Rapidly pulsed synchrotron acceleration chain for a Fermilab sited muon collider
+   Authors: K. Capobianco-Hogan
+   Institutions: Stony Brook University; Brookhaven National Laboratory
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/TUP082.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-TUP082
+   Abstract: We present preliminary lattices for a rapid cycling synchrotron (RCS) chain based on a bottom up design for a 10 TeV parton center-of-momentum (pCM) muon collider sited at Fermilab. The smallest RCS rings in this lattice are 6.28 km in circumference and the largest RCS ring fitting fully within the ...
+------------------------------------------------------------
+7. Paper ID: SUP007
+   Title: Recent Progresses Regarding Enclosed RF Cavities for Future Muon Collider Cooling Channel
+   Authors: D. Merenich
+   Institutions: Northern Illinois University; Lawrence Berkeley National Laboratory; Argonne National Laboratory, Argonne National Laboratory; Northern Illinois University, Northern Illinois University
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/TUP084.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-TUP084
+   Abstract: The muon collider (MuC) holds strong potential for reaching the 10 TeV energy frontier but introduces several technical challenges. Ionization cooling is essential to reduce beam emittance and achieve required luminosities. As muons lose energy in absorbers, normal-conducting RF cavities restore it....
+------------------------------------------------------------
+8. Paper ID: SUP009
+   Title: Advanced Growth and Characterization of Alkali Antimonide Photocathodes for Bright Beam Applications
+   Authors: T. Hasan
+   Institutions: Northern Illinois University; Argonne National Laboratory
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/THP004.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-THP004
+   Abstract: The properties of the photoemitting electron sources are the most determining factors contributing to the performance of the most advanced electron accelerator applications such as particle colliders, X-ray free electron lasers, ultra-fast electron diffraction and microscopy experiments. Therefore, ...
+------------------------------------------------------------
+9. Paper ID: SUP011
+   Title: Effects of Beam Conditions on Achieving Compact Longitudinal De-chirping Using Transverse Deflecting Cavities
+   Authors: A. DeSimone
+   Institutions: Northern Illinois University; Illinois Institute of Technology; Los Alamos National Laboratory; Argonne National Laboratory
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/WECN02.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-WECN02
+   Abstract: It has been shown that a transverse deflecting cavity (TDC)-based de-chirper can be made by altering the drift sections in a TDC-based chirper to form negative drifts. While five appropriately configured quadrupole magnets can implement such negative drifts, this approach is limited by spatial and e...
+------------------------------------------------------------
+10. Paper ID: SUP013
+   Title: Measurements of single-shot attosecond X-ray pulses at high repetition rate
+   Authors: V. Guo
+   Institutions: Stanford University; SLAC National Accelerator Laboratory
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/THP052.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-THP052
+   Abstract: Electron dynamics in molecules occur on attosecond timescales and drive fundamental processes such as photosynthesis, catalysis, and chemical bond transformations. Understanding these phenomena requires tools with both high temporal resolution and the capability to probe molecular dynamics at high r...
+------------------------------------------------------------
+11. Paper ID: SUP014
+   Title: Physics Model to Study Resonant Compton Scattering
+   Authors: W. Delooze
+   Institutions: Duke University
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/THP062.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-THP062
+   Abstract: Over the past several decades, the elastic interaction between photons and electrons known as Compton scattering, has been the foundational mechanism for generating high-energy photon beams, particularly in the gamma-ray regime. Resonant interactions between photons and atomic systems offer signific...
+------------------------------------------------------------
+12. Paper ID: SUP015
+   Title: Single-shot longitudinal phase-space measurement of thermionic gun beam at the Advanced Photon Source linac
+   Authors: T. Suzuki
+   Institutions: Argonne National Laboratory, Michigan State University; Argonne National Laboratory; Facility for Rare Isotope Beams
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/THP072.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-THP072
+   Abstract: Advancements in particle accelerator technology hinge on our ability to precisely measure and understand the behavior of high-brightness beams. Following the installation of the new photo-cathode gun (PCG) laser at the front-end of the Advanced Photon Source (APS) linac, commissioning studies are ne...
+------------------------------------------------------------
+13. Paper ID: SUP018
+   Title: Visualization Tools for EGUN Simulations
+   Authors: K. Casey
+   Institutions: SLAC National Accelerator Laboratory, University of Southern California; SLAC National Accelerator Laboratory, University of Southern California
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/THP096.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-THP096
+   Abstract: DC electron guns are essential sources of moderate-energy electron beams for both particle accelerators and klystrons. EGUN is one of the simulation software that is employed to design such DC guns. EGUN produces detailed data of electron rays trajectories for a given gun geometry, cathode temperatu...
+------------------------------------------------------------
+14. Paper ID: SUP019
+   Title: A W-band corrugated waveguide for high-efficiency high-gradient wakefield acceleration
+   Authors: B. Leung
+   Institutions: Northern Illinois University; Argonne National Laboratory
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/WEP008.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-WEP008
+   Abstract: Compact RF structures in the sub-terahertz regime are promising for structure wakefield acceleration due to their ability in achieving high gradients in a reduced footprint. We report on the design, fabrication, and testing of a metallic corrugated waveguide operating at 110 GHz, tailored to the 42 ...
+------------------------------------------------------------
+15. Paper ID: SUP020
+   Title: Design and cold test of a novel waveguide power splitter for distributed power coupling in short-pulse acceleration
+   Authors: S. Colmekci
+   Institutions: Argonne National Laboratory, Northern Illinois University; Northern Illinois University; Argonne National Laboratory, Northern Illinois University, Northern Illinois University; Argonne National Laboratory
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/WEP017.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-WEP017
+   Abstract: RF breakdown is the major limitation to achieving higher accelerating gradients. Recent experimental evidence shows that this limitation can be mitigated by reducing the RF pulse length to a few nanoseconds. One key challenge in designing an accelerator operating in the short-pulse regime is achievi...
+------------------------------------------------------------
+16. Paper ID: SUP021
+   Title: DESIGN OF AN OPTICAL AMPLIFIER FOR AMPLIFIED OSC IN IOTA FACILITY AT FERMILA
+   Authors: A. Mondal
+   Institutions: Fermi National Accelerator Laboratory
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/WEP021.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-WEP021
+   Abstract: Optical stochastic cooling (OSC) is a cutting-edge beam cooling technology to reduce, control the 3 dimensional spread and the motion of particle beams. It has recently been successfully, experimentally, demonstrated in Fermilab's IOTA storage ring, marking a major step forward in beam cooling. OSC ...
+------------------------------------------------------------
+17. Paper ID: SUP022
+   Title: Developments in Lume-ACE3P Including S-Parameter Optimization for S3
+   Authors: L. Fowler
+   Institutions: SLAC National Accelerator Laboratory
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/WEP029.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-WEP029
+   Abstract: We present here the introduction of optimization to LUME-ACE3P (LUME: Lightsource Unified Modeling Environment; ACE3P: Advanced Computational Electromagnetics 3D Parallel). LUME-ACE3P is a Python wrapper that streamlines workflows for ACE3P, a suite of finite element solvers for electromagnetic fiel...
+------------------------------------------------------------
+18. Paper ID: SUP023
+   Title: Flat beam PWFA theory and experiment at AWA
+   Authors: A. Ody
+   Institutions: Argonne National Laboratory; University of California, Los Angeles; SLAC National Accelerator Laboratory; Particle Beam Physics Lab (PBPL)
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/TUBN01.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-TUBN01
+   Abstract: A wakefield experiment at the Argonne Wakefield Accelerator (AWA) facility utilizes flat electron beams with highly asymmetric transverse emittances to drive plasma wakefields in the underdense regime. These beams create elliptical blowout structures, producing asymmetric transverse focusing forces....
+------------------------------------------------------------
+19. Paper ID: SUP024
+   Title: Investigating Dirac semimetal cadmium arsenide as a potential low-MTE photocathode
+   Authors: T. Idso
+   Institutions: Arizona State University; National Renewable Energy Laboratory
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/WEP047.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-WEP047
+   Abstract: We report on the quantum efficiency (QE) and mean transverse energy (MTE) of photoemitted electrons from cadmium arsenide (Cd&LTsub>3</sub>As&LTsub>2</sub>), a three-dimensional Dirac semimetal (3D DSM) of interest for photocathode applications due to its unique electronic band structure, characteri...
+------------------------------------------------------------
+20. Paper ID: SUP025
+   Title: Investigation of Wakefields in Dielectric Structures with Different Cross Sections
+   Authors: C. Phillips
+   Institutions: Northern Illinois University; Euclid Techlabs (United States); Argonne National Laboratory
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/WEP049.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-WEP049
+   Abstract: Dielectric-lined waveguides are a promising platform for high-gradient beam-driven dielectric wakefield acceleration (DWFA). We present experimental results from a recent study at the Argonne Wakefield Accelerator (AWA), focusing on the performance of three copper-coated dielectric structures with d...
+------------------------------------------------------------
+21. Paper ID: SUP027
+   Title: Light-Induced Enhancement of Quantum Efficiency in III-Nitride Photocathodes
+   Authors: M. Moeini Rizi
+   Institutions: Arizona State University; Brookhaven National Laboratory; Arizona State University, Brookhaven National Laboratory
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/WEP055.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-WEP055
+   Abstract: " High quantum efficiency (QE) semiconductor photocathodes are essential for generating high average beam current and brightness. One class of semiconductor photocathodes considered for use in photoinjectors for unpolarized and polarized electron beams are III-nitride heterostructures. These materia...
+------------------------------------------------------------
+22. Paper ID: SUP028
+   Title: Passive plasma lens experiments at FACET-I
+   Authors: S. Meng
+   Institutions: University of Colorado Boulder; University of Oslo; SLAC National Accelerator Laboratory; Laboratoire d'Optique Appliquée; Lawrence Berkeley National Laboratory; University of California, Los Angeles; SLAC National Accelerator Laboratory, Laboratoire d'Optique Appliquée; University of Colorado Boulder, Arizona State University
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/WEP064.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-WEP064
+   Abstract: The beam-driven, passive plasma lens can provide axisymmetric focusing with strengths orders of magnitude greater than conventional quadrupole magnets, while remaining ultra-compact. These characteristics make it attractive for beam matching into a plasma wakefield accelerator and for controlling be...
+------------------------------------------------------------
+23. Paper ID: SUP029
+   Title: Picometer-scale emittance and space charge effects in nanostructured photocathodes.
+   Authors: A. Ullattuparambil
+   Institutions: Arizona State University; Los Alamos National Laboratory; Cornell University; Cornell University (CLASSE)
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/TUBN03.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-TUBN03
+   Abstract: Generation of ultralow-emittance electron beams with high brightness is critical for several applications such as ultrafast electron diffraction, microscopy, and advanced accelerator techniques. By leveraging the differences in work function and electronic structure between different materials, we e...
+------------------------------------------------------------
+24. Paper ID: SUP030
+   Title: Preliminary computational study on minimizing longitudinal emittance in photoinjector
+   Authors: M. Seo
+   Institutions: Korea University Sejong Campus; Northern Illinois University
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/WEP069.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-WEP069
+   Abstract: Recently, we proposed a novel photoinjector that incorporates an emittance exchange (EEX) beamline. Previous studies demonstrated promising 4D emittance performance of an EEX-based injector, but the beam’s longitudinal emittance at the linac exit still limits the final transverse emittance downstrea...
+------------------------------------------------------------
+25. Paper ID: SUP031
+   Title: RF breakdown and dark current studies in short-pulse acceleration
+   Authors: G. Rijal
+   Institutions: Northern Illinois University; Argonne National Laboratory; Argonne National Laboratory, Northern Illinois University, Northern Illinois University; Argonne National Laboratory
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/WEP079.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-WEP079
+   Abstract: Recent experimental studies at the Argonne Wakefield Accelerator (AWA) have shown that operating RF cavities with short pulses, only a few nanoseconds in duration, can raise the accelerating gradient to nearly 400 MV/m in a series of X-band structure tests. These results motivate further investigati...
+------------------------------------------------------------
+26. Paper ID: SUP035
+   Title: Benchmarking COMSOL and OPAL at Crocker Nuclear Lab
+   Authors: S. PAI
+   Institutions: University of California, Davis
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/TUP017.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-TUP017
+   Abstract: Accurate studies of particle behavior in accelerator chambers require precise magnetic field maps with regard to the iron geometry. We generated a realistic magnetic-field map for the 76-inch cyclotron at Crocker Nuclear Lab using COMSOL Multiphysics, then imported it into the OPAL (Object-Oriented ...
+------------------------------------------------------------
+27. Paper ID: SUP036
+   Title: Computing spin-polarization in electron storage rings by machine learning via randomized Fourier neural networks
+   Authors: J. Agudelo
+   Institutions: University of New Mexico
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/WECD02.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-WECD02
+   Abstract: Our work addresses the challenge of estimating spin po- larization in high-energy electron and positron storage rings, such as the Electron Storage Ring (ESR) of the Electron-Ion Collider (EIC) at Brookhaven National Lab (BNL) and those in the electron/positron Future Circular Collider (FCC-ee) at C...
+------------------------------------------------------------
+28. Paper ID: SUP037
+   Title: Efficient phase space density construction via transfer operators
+   Authors: V. Tembo
+   Institutions: University of Maryland, College Park; RadiaSoft (United States)
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/TUP033.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-TUP033
+   Abstract: Optimizing accelerator lattices requires evaluating phase space densities through extended or repeated particle-in-cell simulations. These are computationally expensive due to the need to solve the equations of motion for large numbers of charged particles in prescribed and self-consistent fields. W...
+------------------------------------------------------------
+29. Paper ID: SUP039
+   Title: Extracting symplectic maps for space charge dominated beams
+   Authors: N. Bachhawat
+   Institutions: Stony Brook University
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/TUP042.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-TUP042
+   Abstract: Symplecticity of transfer maps is important for reliable evaluation of space-charge dominated beams in accelerators. Unfortunately, most simulation codes that include collective effects, such as space charge, do not use canonical phase-space variables and therefore are not symplectic in the presence...
+------------------------------------------------------------
+30. Paper ID: SUP040
+   Title: Halo Formation in High-Intensity Linacs: Modeling and Advanced Phase Space Diagnostics
+   Authors: A. Aleksandrov
+   Institutions: Oak Ridge National Laboratory
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/THYD03.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-THYD03
+   Abstract: Work at the SNS Beam Test Facility aims to characterize halo formation in the early stages of a high-power linac and to reproduce halo measurements with well-benchmarked particle-in-cell simulations. The BTF is equipped with advanced phase space diagnostics that enable detailed characterization of b...
+------------------------------------------------------------
+31. Paper ID: SUP041
+   Title: Instability Threshold Measurements in the IOTA Ring at Fermilab
+   Authors: M. Duncan
+   Institutions: University of Chicago; Fermi National Accelerator Laboratory
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/TUP053.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-TUP053
+   Abstract: Nonlinear focusing elements enhance the stability of particle beams in high-energy colliders via Landau Damping, a phenomenon that acts through the tune spread these elements introduce. This experiment at Fermilab's Integrable Optics Test Accelerator (IOTA) aims to investigate the influence of nonli...
+------------------------------------------------------------
+32. Paper ID: SUP042
+   Title: Lattice refinements for nonlinear integrable optics in IOT
+   Authors: J. Wieland
+   Institutions: Fermi National Accelerator Laboratory
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/TUP060.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-TUP060
+   Abstract: Nonlinear integrable optics of the type proposed by Danilov and Nagaitsev place strict constraints on the lattice parameters in the matching section outside of the nonlinear insert. In particular, the effects of energy spread in the beam have significant effects on the stability of the system. Typic...
+------------------------------------------------------------
+33. Paper ID: SUP043
+   Title: Minimizing dispersion through resonant extraction for BNL's NSR
+   Authors: E. Hamwi
+   Institutions: Cornell University (CLASSE), Cornell University; Brookhaven National Laboratory; Cornell University; Brookhaven National Laboratory, Cornell University, Cornell University; Brookhaven National Laboratory
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/TUP066.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-TUP066
+   Abstract: Simulations, analysis, and measurements are performed on the BNL Booster’s third integer resonance extraction to the NSRL line, which uses a constant optics slow extraction method. In this method, ring dipoles and quadrupoles are changed synchronously for a coasting beam, which aids in maintaining a...
+------------------------------------------------------------
+34. Paper ID: SUP044
+   Title: Mu2e Resonant Extraction Regulation System Simulation in Delivery Ring
+   Authors: A. Narayanan
+   Institutions: Fermi National Accelerator Laboratory
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/TUP068.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-TUP068
+   Abstract: Mu2e is an upcoming experiment at Fermilab that relies on the slowly extracted 8 GeV proton beam from the Delivery Ring. The experiment imposes strong requirements on the spill uniformity. To address these requirements, the fast spill regulations system is being developed and commissioned. To inform...
+------------------------------------------------------------
+35. Paper ID: SUP045
+   Title: Optimizing 4D emittance measurements using the pinhole scan technique
+   Authors: P. Owusu
+   Institutions: Arizona State University; Cornell University
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/TUP075.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-TUP075
+   Abstract: Accurate measurement of electron beam emittance is essential for optimizing high-brightness electron sources. The Pinhole Scan Technique measures the 4D phase space and hence the emittance by measuring the beam profile after clipping the beam using a pinhole followed by a drift section and then scan...
+------------------------------------------------------------
+36. Paper ID: SUP046
+   Title: Plasma Waves in Accelerators
+   Authors: H. McCright
+   Institutions: University of Maryland, College Park
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/TUP078.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-TUP078
+   Abstract: This work presents new insights into the formation and propagation of solitons in the University of Maryland Electron Ring (UMER), using a combination of theory, Particle-In-Cell (PIC) simulation, and experimental validation. Soliton dynamics in the electron beam are modeled via the Korteweg–de Vrie...
+------------------------------------------------------------
+37. Paper ID: SUP047
+   Title: Simulations of CSR and LSC induced microbunching in the presence of a laser heater
+   Authors: C. Emma
+   Institutions: SLAC National Accelerator Laboratory; University of Chicago
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/TUP086.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-TUP086
+   Abstract: We present a study of microbunching amplification in linear accelerators, focusing on the combined effects of coherent synchrotron radiation (CSR) and longitudinal space charge (LSC). We also investigate the role of a laser heater, which is designed to suppress microbunching by decreasing the relati...
+------------------------------------------------------------
+38. Paper ID: SUP048
+   Title: Simulations of IBS through electric field fluctuations
+   Authors: G. Stupakov
+   Institutions: xLight Incorporated; University of Chicago; SLAC National Accelerator Laboratory
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/WECD01.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-WECD01
+   Abstract: We present a study of intra-beam scattering (IBS) that is important for high-brightness electron beams, including a recent theory incorporating enhanced temporal correlations of electric field fluctuations. These correlations primarily arise from the periodic betatron motion of particles within the ...
+------------------------------------------------------------
+39. Paper ID: SUP049
+   Title: Start-to-end simulations of nanometer-emittance beam transport through an emittance exchange beamline
+   Authors: B. Temizel Ozdemir
+   Institutions: Northern Illinois University
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/TUP092.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-TUP092
+   Abstract: We present start-to-end simulation study of the transport of a few pico-Coulomb, nanometer-emittance beam through an emittance exchange (EEX) beamline. EEX with nanometer-emittance beams has potential to enable research opportunities utilizing tunable and high quality attosecond bunches and nanomete...
+------------------------------------------------------------
+40. Paper ID: SUP050
+   Title: The implementation of adaptive step size Runge Kutta integrator in Zgoubi
+   Authors: J. Lee
+   Institutions: Stony Brook University; Brookhaven National Laboratory
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/TUP097.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-TUP097
+   Abstract: The Zgoubi simulation code for beam and spin dynamics employs a numerical method based on Taylor series to integrate the Lorentz and Thomas-BMT equations, optimizing computational efficiency while ensuring high accuracy and robust preservation of motion invariants. In this work, we developed and imp...
+------------------------------------------------------------
+41. Paper ID: SUP051
+   Title: Third Integer Resonant Extraction Transit Time Simulation Studies
+   Authors: A. Narayanan
+   Institutions: Fermi National Accelerator Laboratory
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/TUP098.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-TUP098
+   Abstract: In this work, we present the investigation of transit time of particles in the non-linear third-integer resonant extraction process. Transit time is defined as the number of turns a particle takes to get extracted once it is in the unstable region in the phase space, i.e., outside the triangular sep...
+------------------------------------------------------------
+42. Paper ID: SUP052
+   Title: Transverse beam dynamics studies in the FRIB accelerating cryomodules
+   Authors: A. Gonzalez
+   Institutions: Facility for Rare Isotope Beams
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/TUP102.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-TUP102
+   Abstract: The accelerating segments in the Facility for Rare Isotope Beams (FRIB) linac contain superconducting RF cavities accelerating the beam and superconducting solenoids providing transverse focusing. We have studied the transverse emittance growth in the post-stripper linear accelerating segment of the...
+------------------------------------------------------------
+43. Paper ID: SUP053
+   Title: Accelerator Drift Compensation via a Modified MG-GPO Algorithm
+   Authors: R. Yeung
+   Institutions: Michigan State University; SLAC National Accelerator Laboratory; Facility for Rare Isotope Beams
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/MOP001.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-MOP001
+   Abstract: Performance drift over long periods of operation due to changes in machines settings or the environment has been a longstanding problem for particle accelerators. Algorithms which are capable of tuning machine settings while keeping the performance within a desired threshold can be used to compensat...
+------------------------------------------------------------
+44. Paper ID: SUP054
+   Title: A Self-Supervied Transformer For RF Cavity Signal Denoising
+   Authors: V. Rajesh
+   Institutions: RadiaSoft (United States)
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/MOP006.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-MOP006
+   Abstract: A frequent occurrence within industrial particle accelerator systems is electromagnetic noise accumulating within RF Cavity Sensor readings, attributed to their electromagnetically dirtier operating environments and production, with less of an emphasis on their performance optimization. This phenome...
+------------------------------------------------------------
+45. Paper ID: SUP056
+   Title: Automation of sample alignment for neutron beamlines
+   Authors: A. Chen
+   Institutions: RadiaSoft (United States); Oak Ridge National Laboratory
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/MOP012.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-MOP012
+   Abstract: Neutron scattering experiments are crucial for the exploration of molecular structure in compounds. The HB-2A neutron powder diffractometer at the High Flux Isotope Reactor at Oak Ridge National Laboratory conducts magnetic studies of samples by illuminating them with different energy neutron beams ...
+------------------------------------------------------------
+46. Paper ID: SUP057
+   Title: Automation of sample identificaiton for neutron beamlines
+   Authors: A. Chen
+   Institutions: RadiaSoft (United States); Oak Ridge National Laboratory
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/MOP013.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-MOP013
+   Abstract: Neutron scattering experiments are a critical tool for the investigation of molecular structure in compounds. The HB-2A neutron powder diffractometer at the High Flux Isotope Reactor at ORNL conducts magnetic studies of samples by illuminating them with different energy neutron beams and recording t...
+------------------------------------------------------------
+47. Paper ID: SUP060
+   Title: Towards Real-Time Calibration of CBPMs Using Synchronous RF Injection
+   Authors: M. McCallum
+   Institutions: John Adams Institute
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/MOP020.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-MOP020
+   Abstract: Cavity beam position monitors (CBPMs) are very high-precision devices that, in recent years, have progressed from experimental equipment to standard linac diagnostics in many prominent facilities, most notably free electron lasers. However, the high sensitivity of these devices comes at the cost of ...
+------------------------------------------------------------
+48. Paper ID: SUP063
+   Title: Design of phase diversity Electro-Optic Sampling of THz Coherent Transition Radiation
+   Authors: S. Kelham
+   Institutions: Northern Illinois University; Argonne National Laboratory
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/MOP026.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-MOP026
+   Abstract: We report progress on the design of a Phase Diversity Electro-Optic Sampling (DEOS)-based longitudinal profile measurement system. The current design uses THz coherent transition radiation (CTR) to convey the bunch’s longitudinal information. A 1550nm fiber laser available at the Argonne Wakefield A...
+------------------------------------------------------------
+49. Paper ID: SUP064
+   Title: Electro-Optic Sampling Beam Positioning Monitor for Relativistic Electron Beams
+   Authors: E. Ros
+   Institutions: University of Colorado Boulder, Arizona State University; SLAC National Accelerator Laboratory, Laboratoire d'Optique Appliquée; SLAC National Accelerator Laboratory; University of Colorado Boulder; RadiaBeam Technologies (United States)
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/TUCN02.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-TUCN02
+   Abstract: Non-destructive diagnostics able to resolve transverse offsets and longitudinal separation of ultra-relativistic, two-bunch electron beams are necessary for a variety of applications including the ion channel laser (ICL) and other plasma wakefield (PWFA) experiments. A prototype electro-optic beam p...
+------------------------------------------------------------
+50. Paper ID: SUP065
+   Title: Experimental longitudinal emittance manipulation using laser-based photoionization in the Fermilab Linac
+   Authors: P. Landon
+   Institutions: Boston University, Fermi National Accelerator Laboratory; Fermi National Accelerator Laboratory; Boston University
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/MOP035.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-MOP035
+   Abstract: A series of simulations and beam studies were conducted at Fermilab’s linear accelerator to evaluate the effectiveness of longitudinal emittance control via laser-induced photoionization. While similar laser techniques have been employed at Fermilab to enhance injection and extraction efficiency int...
+------------------------------------------------------------
+51. Paper ID: SUP066
+   Title: Extinction Monitoring of Pulsed Proton Beams Using FPGA-Based Peak Detection
+   Authors: R. Hensley
+   Institutions: University of California, Davis
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/MOP037.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-MOP037
+   Abstract: The Mu2e experiment at Fermilab imposes stringent requirements on the elimination of out-of-time beam in its pulsed proton beam - a requirement known as "extinction". We present a method to measure the out-of-time particle rates to calculate the level of extinction in the inter-pulse gaps, and data ...
+------------------------------------------------------------
+52. Paper ID: SUP067
+   Title: Fast Beam Probe Development for Longitudinal Bunch Measurements at UC Davis Crocker Nuclear Laboratory Cyclotron
+   Authors: L. Knudson
+   Institutions: Crocker Nuclear Lab, University of California, Davis; University of California, Davis
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/MOP040.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-MOP040
+   Abstract: The UC Davis Crocker Nuclear Laboratory (CNL) operates a 76-inch Isochronous Cyclotron dating to the 1960s. Recent experiments have revealed unexplained beam behavior, which cannot be directly measured with the current diagnostics. Direct measurements of the beam in the Cyclotron are challenging due...
+------------------------------------------------------------
+53. Paper ID: SUP068
+   Title: Machine Learning-Enhanced Deterministic Controls in Lasers and Accelerators
+   Authors: D. Wang
+   Institutions: Lawrence Berkeley National Laboratory
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/WEYN01.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-WEYN01
+   Abstract: Lasers and accelerators are inherently complex systems, often requiring multi-input multi-output (MIMO) control strategies with demanding requirements on precision, speed, and scalability. As these systems push toward more stringent performance goals, traditional control techniques often face limita...
+------------------------------------------------------------
+54. Paper ID: SUP070
+   Title: Phase Space Tomography at FACET-I
+   Authors: S. Gessner
+   Institutions: SLAC National Accelerator Laboratory
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/MOP072.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-MOP072
+   Abstract: We present recent development of transverse phase space tomographic reconstruction techniques at FACET-II. We present implementation of such techniques in the FACET-II injector, and utilize it to characterize the two-bunch from photocathode configurations. We demonstrate the characterization of two-...
+------------------------------------------------------------
+55. Paper ID: SUP071
+   Title: Preliminary study of Auto-differentiation algorithm in Beam Dynamics with Stochastic process
+   Authors: C. Ratcliff
+   Institutions: Facility for Rare Isotope Beams
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/MOP076.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-MOP076
+   Abstract: Modern particle accelerator optimization requires sophisticated computational methods to address the inherently stochastic nature of beam dynamics. This research develops a framework applying AD to SDEs that specifically addresses beam dynamics challenges in particle accelerators, focusing on accura...
+------------------------------------------------------------
+56. Paper ID: SUP072
+   Title: Surrogate Model for Third-integer Resonance Extraction at the Fermilab Delivery Ring
+   Authors: A. Narayanan
+   Institutions: Fermi National Accelerator Laboratory; Toyota Technological Institute at Chicago
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/MOP089.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-MOP089
+   Abstract: We present an ongoing work in which a surrogate model is being developed to reproduce the response dynamics of the third-integer resonant extraction process in the Delivery Ring (DR) at Fermilab. This is in pursuit of smoothly extracting circulating beam to the Mu2e Experiment’s production target, w...
+------------------------------------------------------------
+57. Paper ID: SUP073
+   Title: Ultrafast Switching Utilizing an IVA Topology for Chopper Applications
+   Authors: K. Hansz
+   Institutions: Los Alamos National Laboratory
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/MOP095.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-MOP095
+   Abstract: Recent trends in power electronics indicate increas-ing demand for fast response switching networks with sub nanosecond switching speed at a variety of volt-ages. Gate driving networks meet the desired switch-ing speeds using COTS (Commercial Off-The Shelf) parts. This work describes an IVA (Inducti...
+------------------------------------------------------------
+58. Paper ID: SUP075
+   Title: Co-sputter deposition of Nb₃Sn layer into SRF cavity using Nb-Sn composite target
+   Authors: M. Shakel
+   Institutions: Old Dominion University; Fermi National Accelerator Laboratory; Thomas Jefferson National Accelerator Facility
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/WEP015.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-WEP015
+   Abstract: Nb₃Sn, with its superior superconducting critical temperature (Tc ~18.3 K) and superheating field (Hsh ~400 mT), is considered a promising material for superconducting radiofrequency (SRF) cavities, offering enhanced cryogenic performance compared to bulk niobium cavities. A Nb₃Sn coating technique ...
+------------------------------------------------------------
+59. Paper ID: SUP076
+   Title: Design of a shipping fixture for a compact cryomodule hermetic assembly
+   Authors: J. Lewis
+   Institutions: Old Dominion University; Thomas Jefferson National Accelerator Facility
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/WEP022.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-WEP022
+   Abstract: In support of the development of a conduction-cooled 915MHz superconducting radio frequency (SRF) cryomodule, this study highlights the design of a shipping fixture for transporting the hermetic assembly 4500 km from Jefferson Lab to General Atomics in San Diego, California. The hermetic assembly co...
+------------------------------------------------------------
+60. Paper ID: SUP077
+   Title: Design study of an RF-Kicker module for bunch cleaning at the ATLAS Positive-Ion Injector.
+   Authors: D. Sinha
+   Institutions: Northern Illinois University; Argonne National Laboratory
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/WEP023.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-WEP023
+   Abstract: Positive-Ion Injector at ATLAS accelerator facility can accelerate heavy ions and has three key subsystems -- an electron cyclotron resonance (ECR) ion source, a 12-MHz multi-stage beam bunching system, and a 12-MV superconducting linac accelerator. The first stage of the bunching system is a multi-...
+------------------------------------------------------------
+61. Paper ID: SUP078
+   Title: External controller for the SRFK thyratron heaters
+   Authors: B. Laurel
+   Institutions: Los Alamos National Laboratory
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✗ Not available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/WEP035.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-WEP035
+   Abstract: The following work will detail the development and implementation of a system which will measure the voltage and current from two points on a high-voltage switch called a thyratron and automatically manipulate two variable transformers controlling these values. Each of the extraction kickers at LANS...
+------------------------------------------------------------
+62. Paper ID: SUP080
+   Title: One-to-one mapping between the electromagnetic modes of Cylindrical and Coaxial Half-wave cavities
+   Authors: F. Ahmed
+   Institutions: Thomas Jefferson National Accelerator Facility, Old Dominion University
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/WEP062.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-WEP062
+   Abstract: Design of radio frequency (RF) couplers and diagnostics require a good understanding of the electromagnetic mode patterns of RF cavities. This study investigates the adiabatic transformation of transverse magnetic (TM) modes in a cylindrical cavity into transverse electromagnetic (TEM) modes of a co...
+------------------------------------------------------------
+63. Paper ID: SUP081
+   Title: Study of uncorrelated resonance crossing in a controlled environment
+   Authors: J. Kelley
+   Institutions: Los Alamos National Laboratory, Virginia Tech, Virginia Tech; Los Alamos National Laboratory; University of New Mexico; Cornell University (CLASSE); Los Alamos National Laboratory
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/WEP067.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-WEP067
+   Abstract: This paper deals with estimating spin depolarization in planned very high energy electron-positron storage rings like the FCC-ee. The paper covers three aspects of the work: 1) the putative so-called uncorrelated resonance crossing due to noise in the spin-rotation phase advance caused by photon emi...
+------------------------------------------------------------
+64. Paper ID: SUP082
+   Title: Sputter coating of Nb₃Sn into SRF cavity using stoichiometric target
+   Authors: M. Shakel
+   Institutions: Old Dominion University; Thomas Jefferson National Accelerator Facility; Fermi National Accelerator Laboratory
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/WEP082.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-WEP082
+   Abstract: Nb₃Sn has emerged as a leading alternative material due to its higher superconducting critical temperature (Tc) and superheating field (Hsh), promising a viable solution to the intrinsic performance limit currently faced by Nb superconducting radiofrequency (SRF) cavities. We sputter-coated Nb₃Sn in...
+------------------------------------------------------------
+65. Paper ID: SUP083
+   Title: The Pulsed Ion Reflex Klystron: A New Accelerator for High Efficiency Voltage Conversion
+   Authors: D. Mengel
+   Institutions: Beam Alpha Incorporated; Hbar Technologies, LLC
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/WEP086.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-WEP086
+   Abstract: Beam Alpha developed a kilowatt-scale fusion microreactor that directly converts nuclear energy to electrical energy without intermediate heat steps. This device has an output of 1.6 million volts DC. A converter is needed to transform this potential energy into useful electrical power. To achieve t...
+------------------------------------------------------------
+66. Paper ID: SUP085
+   Title: Unlocking SRF Performance: How Nitrogen and Oxygen Shape Cavity Performance
+   Authors: H. Hu
+   Institutions: University of Chicago; Fermi National Accelerator Laboratory; University of Chicago; Fermi National Accelerator Laboratory, University of Chicago, Fermi National Accelerator Laboratory
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/THYN01.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-THYN01
+   Abstract: Nitrogen and oxygen-based surface treatments have revolutionized the performance of superconducting radiofrequency (SRF) cavities, enabling them to reach higher gradients and lower losses. However, the exact mechanisms by which these treatments improve cavity performance remain largely unknown. This...
+------------------------------------------------------------
+67. Paper ID: SUP086
+   Title: An electrostatic fusion collider for interstellar propulsion
+   Authors: G. Bittlingmaier
+   Institutions: Beam Alpha Incorporated; Hbar Technologies, LLC
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/THP008.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-THP008
+   Abstract: In order to reach the nearest star Proxima Centauri within a century, a distance of 4.224 light-years from our solar system, the average spacecraft velocity needs to be 4.2% of the speed of light. Therefore, according to the rocket equation, the weighted average exhaust velocity needs to be over 1% ...
+------------------------------------------------------------

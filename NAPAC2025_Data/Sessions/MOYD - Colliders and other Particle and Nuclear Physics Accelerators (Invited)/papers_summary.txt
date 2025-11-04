@@ -1,0 +1,32 @@
+Session: MOYD - Colliders and other Particle and Nuclear Physics Accelerators (Invited)
+Session ID: MOYD
+URL: https://meow.elettra.eu/97/session/1163-moyd/index.html
+Scrape time: 2025-11-03 23:54:15
+Paper count: 2
+Available presentations: 0/2
+Available papers: 2/2
+Available posters: 0/2
+================================================================================
+
+1. Paper ID: MOYD01
+   Title: The future circular collider in Europe7The proposed Future Circular Collider (FCC) integrated programme consists of two stages: An electron–positron collider serving as a highest-luminosity Higgs-boson, electroweak and top-quark factory, followed by a proton–proton collider with a collision energy around 100 Te
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/MOYD01.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-MOYD01
+------------------------------------------------------------
+2. Paper ID: MOYD02
+   Title: Recent experience with high-luminosity operation of SuperKEKB14SuperKEKB is a positron-electron collider with a nano-beam scheme. The nano-beam scheme allows the extremely low beta function at the interaction point (IP) compared to the bunch length, namely ordinary colliders. The beta function at the IP is less than 1 mm which is the smallest value among the previous colliders. Recent results on beam-beam interactions, beam injection under the influence of beam-beam interactions, and a performance of the crab-waist scheme that improves the luminosity performance are discussed. Sudden beam loss (SBL), which cannot be explained by usual beam dynamics, and the nonlinear collimator as a key device to reduce both beam background and impedance are also crucial issues. We present the recent machine operation and performance of SuperKEKB which predicts the future high energy and luminosity colliders.
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/MOYD02.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-MOYD02
+------------------------------------------------------------

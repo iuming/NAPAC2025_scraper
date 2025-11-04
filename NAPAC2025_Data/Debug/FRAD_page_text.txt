@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+        Colliders and other Particle and Nuclear Physics Accelerators (contributed)
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        NAPAC2025 - Proceedings Sacramento, CA, USA
+
+
+Home
+        — Session
+        — Classification
+        — Authors 
+Institutes
+        — DOI of Institutes
+        — Keywords
+
+
+
+
+
+
+
+
+
+FRAD
+
+
+                -
+            
+
+                Colliders and other Particle and Nuclear Physics Accelerators (contributed)
+            
+
+                15 Aug 2025, 09:30 -
+                10:30
+            
+
+
+FRAD01Xsuite Contributions to Modeling of Collective Effects in Present and Future Colliders: Synergies Between FCC and EICThe design, optimization and possibly operation of future particle colliders such as the Future Circular Collider (FCC) and the Electron-Ion Collider (EIC) require advanced, flexible, and collaborative modeling frameworks to address complex collective effects in beam dynamics. Central to this effort for the FCC is Xsuite—a Python-based modular toolkit combining symplectic particle tracking with detailed models of synchrotron radiation, impedances, space charge, electron cloud, beam-beam interactions, and feedback systems. Xsuite’s contributions to FCC studies have been substantial, and its potential extension to EIC opens new avenues for collaborative research. This platform fosters international cooperation by enabling researchers across continents to share models, simulation results, and expertise seamlessly. Such synergy facilitates high-fidelity exploration of beam dynamics phenomena critical to machine performance, including beam collective effects and luminosity degradation, with computational efficiency on both CPU and GPU architectures. By harmonizing modeling efforts for FCC and EIC, the platform can contribute to a coherent understanding of beam dynamics across different collider designs. We discuss ongoing and potential progress in adapting and extending Xsuite for joint FCC and EIC studies, emphasizing the advantages of collaborative workflows and the transformative impact these tools can have on the design and operation of next-generation colliders.T. Pieloni  École Polytechnique Fédérale de LausanneCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+FRAD02Design of ring electron cooler1155Electron cooling at high energy requires large average current in the cooling section (CS), which can be achieved by reusing the same electron beam on many passes through the CS. One of the options to realize this cooling scheme is to use an electron storage ring. In this paper we describe a conceptual design of the Ring Electron Cooler (REC), as a potential future application for the Electron Ion Collider. The REC uses 150MeV electrons to cool protons in hadron ring while electrons themselves are being cooled by radiation damping wigglers installed in electron storage ring. Design of the REC considers electrons’ space charge, an effect of proton-electron focusing, a beam-beam scattering in the CS and electrons’ intra-beam scattering in the storage ring, as well as other collective effects. In this paper we discuss the status of the REC design and describe multiparametric optimization involved in the design efforts.S. Seletskiy, A. Fedotov, D. Kayran, J. Kewisch, Y. Jing  Brookhaven National LaboratoryG. Hoffstaetter  Cornell UniversityJ. Unger  Cornell University (CLASSE)Paper: FRAD02DOI: reference for this paper: 10.18429/JACoW-NAPAC2025-FRAD02About:  Received: 07 Aug 2025 — Revised: 13 Aug 2025 — Accepted: 13 Aug 2025 — Issue date: 08 Oct 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+FRAD03Crabbing schemes for the Electron-Ion Collider1159The Electron-Ion Collider (EIC), to be constructed at Brookhaven National Laboratory, will collide polarized high-energy electron beams with polarized proton and ion beams, achieving luminosities of up to 1 × 10^34 cm^−2 s^−1 in the center-of-mass energy range of 20-140 GeV. Crab cavities will be used in both EIC rings to compensate for the geometric luminosity loss due to the large crossing angle of 25 mrad in the interaction region. For the baseline design, a local crabbing scheme is adopted for both EIC rings, where crab cavities will be installed on both sides of the interaction region, and the ideal horizontal phase advance between the interaction point and the crab cavities is 90 degrees. In this article, we will study the feasibility of using a global crabbing scheme for each EIC ring, and, in particular, the case where the crab cavities in the Electron Storage Ring (ESR) will not be available during the early EIC commissioning. In this scenario, we need to reduce the electron beam's beam-beam parameter to avoid electron loss during injection.Y. Luo, C. Montag, D. Xu, F. Willeke, J. Berg, M. Blaskiewicz, S. Nagaitsev, V. Ptitsyn  Brookhaven National LaboratoryJ. Qiang  Lawrence Berkeley National LaboratoryV. Morozov  Oak Ridge National LaboratoryY. Hao  Facility for Rare Isotope BeamsPaper: FRAD03DOI: reference for this paper: 10.18429/JACoW-NAPAC2025-FRAD03About:  Received: 07 Aug 2025 — Revised: 12 Aug 2025 — Accepted: 14 Aug 2025 — Issue date: 08 Oct 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+
+
+

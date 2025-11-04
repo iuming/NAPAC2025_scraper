@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+
+        Accelerator Technology and Sustainability (Invited)
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        NAPAC2025 - Proceedings Sacramento, CA, USA
+
+
+Home
+        — Session
+        — Classification
+        — Authors 
+Institutes
+        — DOI of Institutes
+        — Keywords
+
+
+
+
+
+
+
+
+
+TUZD
+
+
+                -
+            
+
+                Accelerator Technology and Sustainability (Invited)
+            
+
+                12 Aug 2025, 14:00 -
+                14:30
+            
+
+
+TUZD01High-Power Targetry R&D road map for HEPDesigning a reliable target is already a challenge for MW-class facilities today and has led several major accelerator facilities to operate at lower power due to target concerns. With present plans to increase beam power for next-generation accelerator facilities in the next decade, timely R&D in support of robust high-power targets is critical to secure the full physics benefits of ambitious accelerator power upgrades. The next generation of high-power targets and beam-intercepting devices (beam dumps, absorbers, collimators…) will have more complex geometries, novel materials, and new concepts that allow for use of improved high-heat-flux cooling methods. Advanced numerical simulations need to be developed to support design of reliable high-power beam targets. In parallel, development of radiation-hardened beam instrumentation is needed. Irradiation methods for high-power targets must be further developed, and new irradiation facilities are needed since only a few facilities worldwide offer beams suitable for target testing. A comprehensive R&D program must be implemented to address the many complex challenges faced by multi-MW beam intercepting devices.F. Pellemoine, S. Ganguly  Fermi National Accelerator LaboratoryCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+
+
+

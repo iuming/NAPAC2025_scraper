@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+        Applications of Accelerators, Technology Transfer, Industrial Relations, and Outreach (Invited)
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        NAPAC2025 - Proceedings Sacramento, CA, USA
+
+
+Home
+        — Session
+        — Classification
+        — Authors 
+Institutes
+        — DOI of Institutes
+        — Keywords
+
+
+
+
+
+
+
+
+
+WEYD
+
+
+                -
+            
+
+                Applications of Accelerators, Technology Transfer, Industrial Relations, and Outreach (Invited)
+            
+
+                13 Aug 2025, 11:00 -
+                12:30
+            
+
+
+WEYD01A plan to revitalize the domestic superconducting radio-frequency industry637Superconducting radio-frequency (SRF) cavities are essential building blocks of modern particle accelerators for scientific research, and they offer unique capabilities that could be transformative for commercial applications. Growth of the domestic SRF industry in North America has faced several challenges over the past decades, as most of the international demand for cavities was supplied by European vendors. This contribution provides a brief review of the domestic industrial vendor space, an outlook of the global demand for SRF cavities and an outline of the challenges leading to this supply chain deficiency. One of the main challenges towards establishing a robust domestic SRF industry has been the large uncertainty in the demand. Meanwhile, research and development activities to raise technical readiness of SRF accelerators for industrial use have continued and several potential markets are emerging that may offer a consistent and growing demand for SRF cavities. Finally, reasons and means of establishing and sustaining competitive domestic suppliers are described.A. Todd  AMMTodd ConsultingA. Murokh  RadiaBeam Technologies (United States)D. Packard  General Atomics (United States)D. Osha  C F Roark Welding & Engineering Co.G. Ciovati, M. Schuchman  Thomas Jefferson National Accelerator FacilityJ. Rathke  TechSource (United States)M. Naughton  ATI Specialty Alloys & ComponentsW. Donaldson  Christopher Newport UniversityPaper: WEYD01DOI: reference for this paper: 10.18429/JACoW-NAPAC2025-WEYD01About:  Received: 07 Aug 2025 — Revised: 09 Aug 2025 — Accepted: 10 Aug 2025 — Issue date: 08 Oct 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+WEYD02Accelerator-based medical isotope production: An overview of emerging trends and novel initiatives643Recent advances in drug development and radionuclide research have notably expanded the role of nuclear medicine in treating cancer over the past decade. Throughout such research and development efforts, the list of drug moieties and cancer types under investigation is paralleled by a similarly expansive list of radionuclides. This is because the suitability of a radionuclide for a therapeutic radiopharmaceutical application will depend on many factors including, but not limited to, the decay mode (e.g. α- vs β-emitter), the particle emission range, the matching of its half-life to the pharmacokinetics of the drug, and the co-emission of gamma rays of appropriate energy for imaging. Moreover, the successful adoption into clinical practice hinges on sustained, reliable, and cost-effective access to these radionuclides – a task which is not trivial. To this end, this presentation provides an overview of emerging trends in radionuclides (noting &LTsup>225</sup>Ac, &LTsup>211</sup>At, &LTsup>177</sup>Lu, and &LTsup>67</sup>Cu as examples), alongside novel initiatives for accelerator-based production strategies.K. Gagnon  NusanoPaper: WEYD02DOI: reference for this paper: 10.18429/JACoW-NAPAC2025-WEYD02About:  Received: 13 Aug 2025 — Revised: 14 Aug 2025 — Accepted: 15 Aug 2025 — Issue date: 08 Oct 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+WEYD03Application of Accelerator Technology to Quantum Information ScienceThe intersection of accelerator and quantum information science (QIS) offers a unique platform to advance both fields through shared technology and infrastructure. This talk will discuss the synergies which exist between these two vastly different but complementary domains. We demonstrate how we leverage pre-existing infrastructure and knowledge to perform research and development which helps to realize dramatic improvements in both 10 km long accelerators and 10 cm large quantum processors. We will explore niobium superconducting radio-frequency (SRF) cavities, a mature technology that excels in efficiently storing electromagnetic energy, enabling ultra-long photon lifetimes critical for quantum processors and facilitating the characterization of quantum materials with parts-per-billion precision. We will also discuss how advancements in superconducting materials, cryogenic systems, and control techniques help to reduce cost and improve performance for both quantum systems and particle accelerators. Moreover, we will discuss cross-disciplinary applications such as dark-matter searches and demonstrate the convergence of these fields in addressing fundamental scientific questions.D. Bafia  Fermi National Accelerator LaboratoryCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+
+
+

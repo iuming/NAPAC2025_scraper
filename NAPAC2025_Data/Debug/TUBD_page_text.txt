@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+        Hadron Accelerators (Contributed)
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        NAPAC2025 - Proceedings Sacramento, CA, USA
+
+
+Home
+        — Session
+        — Classification
+        — Authors 
+Institutes
+        — DOI of Institutes
+        — Keywords
+
+
+
+
+
+
+
+
+
+TUBD
+
+
+                -
+            
+
+                Hadron Accelerators (Contributed)
+            
+
+                12 Aug 2025, 11:30 -
+                12:30
+            
+
+
+TUBD01SNS Second Target Station proton accelerator shielding design and accident scenario evaluation302Design of the Second Target Station (STS) for Oak Ridge National Laboratory’s (ORNL) world-class Spallation Neutron Source (SNS) Facility is underway. The STS will provide an optimized high-brightness cold neutron source for up to 18 new beamlines, both expanding and complimenting the current neutron science capabilities at ORNL. The Ring to Second Target beam Transport (RTST) will deliver a 700kW beam of 1.3GeV protons at 15Hz to a rotating target composed of individual water-cooled tungsten wedge segments. Spanning roughly 220m, the RTST will consist of 56 quadrupole focusing magnets and 15 dipole bending magnets. Installation and maintenance of large beamline components will be facilitated via a truck access tunnel. While the proton accelerator is in operation, the truck access tunnel entrance is shielded by an arrangement of stacked steel shielding blocks. This shielding design must account for both normal operating conditions as well as design-basis accident scenarios. Provided in this work is an analysis of the accelerator truck access tunnel shielding design for a worst-case full beam loss accident scenario.W. de Wet, J. McLaurin  Oak Ridge National LaboratoryPaper: TUBD01DOI: reference for this paper: 10.18429/JACoW-NAPAC2025-TUBD01About:  Received: 08 Aug 2025 — Revised: 14 Aug 2025 — Accepted: 14 Aug 2025 — Issue date: 08 Oct 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+TUBD02Dramatically reducing beam losses at BNL 200 MeV H- linac305The Brookhaven National Laboratory (BNL) 200 MeV drift tube linac (DTL) delivers H- beam at 6.67 Hz and 200 MeV to both the polarized proton program at the Relativistic Heavy Ion Collider (RHIC) and the Brookhaven Linac Isotope Production (BLIP) facility. Through a series of upgrades, particularly in the last two decades, the linac's performance has significantly improved. Reconfigurations of the low-energy and medium-energy beam transport systems have been key contributors to this progress. Key improvement include: A 50% increase in transmission for high-peak-current isotope production, a 50% reduction in transverse emittance and A dramatic three-order-of-magnitude reduction in beam loss. These upgrades and has significantly enhanced the overall performance and efficiency of the BNL 200 MeV linac.D. Raparia  Brookhaven National LaboratoryPaper: TUBD02DOI: reference for this paper: 10.18429/JACoW-NAPAC2025-TUBD02About:  Received: 08 Aug 2025 — Revised: 13 Aug 2025 — Accepted: 13 Aug 2025 — Issue date: 08 Oct 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+TUBD03Simulation modeling of first-turn losses for the LANSCE Proton Storage Ring (PSR)310The LANSCE proton storage ring (PSR) accumulates 795 MeV protons into a short, 290 ns pulse over 625 μs, or about 1745 turns. One of the primary limitations for maximum proton pulse intensity is beam loss between the H$^-$ stripper foil and the first dipole magnet downstream of the foil. One of the major beam losses in this region, referred to as “first-turn losses,” are due to incomplete stripping of the injected H$^-$ beam into H$^+$ during the injection process. First-turn losses not only result in a lower extracted proton pulse intensity but can also result in longer maintenance periods following beam runs due to the activation of PSR components, which require “cooling down” prior to any hands-on maintenance. In this work, a detailed particle-tracking model of the PSR injection system was created using the simulation package General Particle Tracer (GPT) using three C++ custom elements created to simulate foil scattering, foil stripping, and Lorentz stripping. The model was used to study the effect of different stripper foil parameters and different injection offsets on first-turn losses and emittance growth. The simulation model will be described, and the simulation results will be presented at the conference.J. Yoskowitz, A. Alexander, C. Taylor, E. Huang, E. Henestroza, H. Xu, J. Lewellen  Los Alamos National LaboratoryPaper: TUBD03DOI: reference for this paper: 10.18429/JACoW-NAPAC2025-TUBD03About:  Received: 06 Aug 2025 — Revised: 10 Aug 2025 — Accepted: 12 Aug 2025 — Issue date: 08 Oct 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+
+
+

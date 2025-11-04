@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+        Applications of Accelerators, Technology Transfer, Industrial Relations, and Outreach (Contributed)
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        NAPAC2025 - Proceedings Sacramento, CA, USA
+
+
+Home
+        — Session
+        — Classification
+        — Authors 
+Institutes
+        — DOI of Institutes
+        — Keywords
+
+
+
+
+
+
+
+
+
+FRAN
+
+
+                -
+            
+
+                Applications of Accelerators, Technology Transfer, Industrial Relations, and Outreach (Contributed)
+            
+
+                15 Aug 2025, 09:30 -
+                10:30
+            
+
+
+FRAN01First Beam Demonstration in Hand-Portable Battery-Operated Ku-band Split LinacX-ray generators, producing radiation in the MeV range, are a critical tool for radiography, non-destructive testing, and security applications. The field operation of such source requires them to be hand-portable, autonomous, and allow parameter adjustability. The dramatic level of miniaturization and cost-reduction of electron linac is achieved thanks to the implementation of such innovative technologies as air-cooled Ku-band air-traffic control magnetrons, split accelerating structure fabrication technique, and solid-state Marx modulators. In this talk, we present the design and test results of a 2 MeV Ku-band electron linac for a hand-portable X-ray generator system for field radiography, being developed by RadiaBeam.S. Kutsaev, R. Agustsson, R. Berry, E. Ivanov, M. Ruelas, A. Smirnov  RadiaBeam Technologies (United States)Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+FRAN02High-Precision Characterization of MeV Electron Interactions for Advanced Nano-Imaging of Thick Biological Samples and MicrochipsThe resolution of a MeV Scanning Transmission Electron Microscope (MeV-STEM) is mainly limited by the electron beam properties and angular broadening in thick biological samples and microchips. Addressing these challenges requires understanding beam emittance, optical aberrations, and energy-dependent scattering angles. We propose a standardized method to assess beam intensity, divergence, and size at the sample exit to better characterize electron-sample interactions, align analytical models, and validate Monte Carlo simulations. Our results show that accurately measuring parameters—especially angular broadening—is both feasible and essential for improving resolution. Using a high-energy (1–10 MeV) electron source and tailored beams, along with amorphous ice and silicon as sample proxies, we aim to optimize beam energy and focus for enhanced imaging. This is critical for in-situ imaging of thick biological samples and detecting nanometer-scale microchip defects. Ultimately, we aim to map the minimum electron energy needed for nanoscale resolution across varying sample types and imaging modes.X. Yang, T. Shaftan, G. D’Amen, L. Wang  Brookhaven National LaboratoryV. Smaluk, T. Wang, N. Bouet  National Synchrotron Light Source IIP. Musumeci  University of California, Los AngelesCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+FRAN03Progress in Advanced Ferroelectric Technologies for Fast SRF Cavity TuningIn this talk, Euclid Techlabs, in collaboration with Jefferson Lab, Helmholtz-Zentrum Berlin (HZB), and CERN, will present recent advancements in ferroelectric material-based fast tuning systems for SRF cavities. Currently, the most common approach to managing fast cavity frequency shifts is to over-couple the fundamental RF power, which results in significant power waste. Recent developments in ultra-low-loss ferroelectric materials have made ferroelectric-based tuning technology for SRF cavities a viable alternative. The Horizon Europe iSAS project* focuses on improving accelerator efficiency and includes the integration of a ferroelectric fast reactive tuner (FE-FRT) to enhance energy conservation. Applications under this initiative include an FE-FRT for 400 MHz transient beam loading compensation in the LHC, FE-FRT systems for microphonics compensation in 1.3 GHz SRF cavities, FE-FRTs for energy recovery linac (ERL) applications, and retrofitting FE-FRTs into existing HL-LHC cryomodules**. In the U.S., FE-FRT technology is under active development for microphonics compensation in CEBAF and as a potential upgrade path for the Electron-Ion Collider (EIC), where it may serve as a dedicated hardware solution for active microphonics control in crab cavities.A. Kanareykin  Euclid Beamlabs, Euclid Beamlabs LLCCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+
+
+

@@ -1,0 +1,41 @@
+{
+  "session_info": {
+    "id": "FRAD",
+    "name": "FRAD - Colliders and other Particle and Nuclear Physics Accelerators (contributed)",
+    "url": "https://meow.elettra.eu/97/session/1197-frad/index.html"
+  },
+  "papers": [
+    {
+      "paper_id": "FRAD02",
+      "title": "Design of ring electron cooler1155Electron cooling at high energy requires large average current in the cooling section (CS), which can be achieved by reusing the same electron beam on many passes through the C",
+      "authors": [],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "",
+      "paper_url": "https://meow.elettra.eu/97/pdf/FRAD02.pdf",
+      "poster_url": "",
+      "doi": "https://doi.org/10.18429/JACoW-NAPAC2025-FRAD02",
+      "page_number": "",
+      "presentation_available": false,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "FRAD03",
+      "title": "Crabbing schemes for the Electron-Ion Collider1159The Electron-Ion Collider (EIC), to be constructed at Brookhaven National Laboratory, will collide polarized high-energy electron beams with polarized proton and ion beams, achieving luminosities of up to 1 × 10^34 cm^−2 s^−1 in the center-of-mass energy range of 20-140 Ge",
+      "authors": [],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "",
+      "paper_url": "https://meow.elettra.eu/97/pdf/FRAD03.pdf",
+      "poster_url": "",
+      "doi": "https://doi.org/10.18429/JACoW-NAPAC2025-FRAD03",
+      "page_number": "",
+      "presentation_available": false,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 2,
+  "scrape_time": "2025-11-04 00:12:33"
+}

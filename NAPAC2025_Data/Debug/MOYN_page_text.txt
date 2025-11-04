@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+        Photon Sources and Electron Accelerators (Invited)
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        NAPAC2025 - Proceedings Sacramento, CA, USA
+
+
+Home
+        — Session
+        — Classification
+        — Authors 
+Institutes
+        — DOI of Institutes
+        — Keywords
+
+
+
+
+
+
+
+
+
+MOYN
+
+
+                -
+            
+
+                Photon Sources and Electron Accelerators (Invited)
+            
+
+                11 Aug 2025, 11:00 -
+                12:30
+            
+
+
+MOYN01Operation of the APS-U injectors with high single bunch charge20The APS-Upgrade uses swap-out injection, which means the injectors must supply a full charge bunch (up to 16 nC) to replace a depleted one in the storage ring.  The APS injector chain consists of a linac, particle accumulator ring (PAR), and booster synchrotron. These machines were kept in place for the APS-U, with several key upgrades to support high charge operation.  Major upgrades include a new timing system, improved diagnostics, and a new amplifier for bunch compression in the PAR. So far, the injectors have supported up to 140 mA storage ring current in the high charge (48 bunch) mode. This talk will summarize the work needed to achieve high injector charge, and report on operational experience so far.J. Calvey, A. Nassiri, F. Rafael, G. Waldschmidt, H. Shang, J. Dooling, K. Harkay, K. Wootton, O. Mohsen, P. Anthony, S. Terry, T. Berenc, U. Wienands, Y. Sun  Argonne National LaboratoryPaper: MOYN01DOI: reference for this paper: 10.18429/JACoW-NAPAC2025-MOYN01About:  Received: 08 Aug 2025 — Revised: 14 Aug 2025 — Accepted: 14 Aug 2025 — Issue date: 08 Oct 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+MOYN02Advances in beam physics and technology for ultrafast electron diffractionUltrafast electron diffraction (UED) is a rapidly advancing field, with a surge of scientific outcomes and significant progress in the development of high-brightness electron beams tailored for improved resolution and signal-to-noise ratios. In this talk, we will present recent developments in beam physics and technology aimed at producing beams with lower emittance, shorter bunch lengths, tighter timing synchronization, and better stability for UED, as well as for broader applications that demand high-brightness, precisely controlled beams.B. Song, C. Tang, L. Zheng, P. Lv, P. Huang, R. Li, W. Huang, Y. Wang, Y. Du, Y. Yang, Z. Wang, Z. Liu  Tsinghua UniversityCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+MOYN03Commissioning of the HEPS26The High Energy Photon Source (HEPS) is the first 4th generation light source and the first high-energy storage ring light source in China, with a beam energy of 6 GeV, a circumference of 1360 m and a natural emittance of a few tens of picometers. As a green-field light source, the HEPS construction started in 2019 and is scheduled to be completed in 2025. Now civil construction, component fabrication and tunnel installation, and beam commissioning of the HEPS has been basically finished. In this report, the accelerator and especially the storage ring commissioning results, and main physics issues faced and corresponding measures during the beam commissioning will be presented.Y. Jiao  Institute of High Energy Physics, Chinese Academy of SciencesC. Meng, F. Zeng, W. Pan, X. Huang, Y. Peng  Chinese Academy of SciencesC. Yu, D. Ji, D. Li, F. Zhao, F. Yan, G. Xu, H. Xu, H. Ji, H. Zheng, H. Qu, J. Li, J. Cao, J. Zhang, J. Li, J. Wang, L. Qin, N. Li, P. He, S. Tian, S. Chen, S. Lin, W. Bao, W. Kang, X. Lu, X. Cui, X. Li, Y. Wu, Y. Zhao, Y. Lu, Y. Huang, Y. Guo, Y. Wei, Y. Yang, Y. Dong, Y. Liu, Z. Duan, Z. Li, Z. Zhao, Z. Wang  Institute of High Energy PhysicsM. Su, N. Wang  University of Chinese Academy of SciencesPaper: MOYN03DOI: reference for this paper: 10.18429/JACoW-NAPAC2025-MOYN03About:  Received: 05 Aug 2025 — Revised: 15 Aug 2025 — Accepted: 15 Aug 2025 — Issue date: 08 Oct 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+
+
+

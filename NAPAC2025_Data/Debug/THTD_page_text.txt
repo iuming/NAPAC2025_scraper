@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+
+        Thursday Tutorial
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        NAPAC2025 - Proceedings Sacramento, CA, USA
+
+
+Home
+        — Session
+        — Classification
+        — Authors 
+Institutes
+        — DOI of Institutes
+        — Keywords
+
+
+
+
+
+
+
+
+
+THTD
+
+
+                -
+            
+
+                Thursday Tutorial
+            
+
+                14 Aug 2025, 09:00 -
+                10:30
+            
+
+
+THTD01RF Sources for Accelerator ApplicationsThis tutorial will begin with a brief historical account and review of technological developments and innovations in radio frequency (RF) systems for particle accelerators. After an introduction, we will provide more in-depth review of technological developments of RF sources for particle accelerators and will provide some perspectives on the state-of-the art RF sources tailored designed for a variety of particle accelerators applications.A. Nassiri  Argonne National LaboratoryCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+
+
+

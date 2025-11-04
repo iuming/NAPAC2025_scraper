@@ -1,0 +1,54 @@
+Session: WECN - Photon Sources and Electron Accelerators (Contributed)
+Session ID: WECN
+URL: https://meow.elettra.eu/97/session/1187-wecn/index.html
+Scrape time: 2025-11-04 00:04:31
+Paper count: 4
+Available presentations: 0/4
+Available papers: 3/4
+Available posters: 0/4
+================================================================================
+
+1. Paper ID: WECN01
+   Title: LCLS-II injector operational challenges and recent developments680LCLS-II has been in user operations since 2023 and has ramped the beam rate up to 33 kHz to date. The LCLS-II photoinjector has demonstrated a low-emittance (half-micron) beam operating at a high rate. During the injector operation, we have also encountered several challenges, such as e-beam splitting and large dark current from the gun. The split e-beam compromises FEL lasing, while the large gun dark current generates substantial amounts of ions, which backbombard and damage the photocathode, as well as cause beam loss downstream, frequently damaging components. Recently, these problems have been successfully addressed. On one hand, a relatively larger laser size was implemented on the photocathode, which helped suppress space charge effects, resulting in the disappearance of the split beam. On the other hand, an over-inserted photocathode, recently installed on the LCLS-II gun, has reduced the gun's dark current by a factor of 1000. The gun dark current reduction has significantly extended the photocathode's operational lifetime, eliminated the QE and FEL intensity dependence on beam rate, and substantially reduced beam loss downstream. This paper presents detailed analyses and solutions for LCLS-II photoinjector operational challenges.
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/WECN01.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-WECN01
+------------------------------------------------------------
+2. Paper ID: WECN02
+   Title: Effects of beam conditions on achieving compact longitudinal de-chirping using transverse deflecting cavities683It has been shown that a transverse deflecting cavity (TDC)-based de-chirper can be made by altering the drift sections in a TDC-based chirper to form negative drifts. While five appropriately configured quadrupole magnets can implement such negative drifts, this approach is limited by spatial and experimental constraints. In this study, we investigate an alternative configuration that uses three quadrupole magnets to form a negative identity transport section between the TDCs instead of a negative drift. To assess the robustness of this proposed design, a computational study has been conducted on initial beam conditions to determine the operational limitations. This includes the effects of space charge and initial transverse beam conditions, such as beam size and divergence, on the resulting transverse emittance.
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/WECN02.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-WECN02
+------------------------------------------------------------
+3. Paper ID: WECN03
+   Title: Multi–objective Bayesian optimization of an electron injector linac for 4th generation light sources: A comparative Study with
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/WECN03.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-WECN03
+------------------------------------------------------------
+4. Paper ID: MOGA686
+   Title: The performance of electron injector linear accelerators (linacs) critically influences the beam brightness and stability in 4th generation light sources. In this study, we employ a multi-objective Bayesian optimization (MOBO) framework to optimize the injector linac design, targeting the simultaneous minimization of transverse emittances and energy spread at the linac exit. This data-efficient approach leverages Gaussian process regression and acquisition functions to navigate the high-dimensional design space with significantly fewer simulations than conventional methods. We compare the results of MOBO with those obtained from the well-established Multi-Objective Genetic Algorithm (MOGA), highlighting differences in convergence speed, solution diversity, and computational efficiency. Our findings demonstrate that MOBO achieves comparable or superior optimization outcomes with reduced computational cost, offering a powerful alternative for accelerator design and tuning in next-generation light source facilities.
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✗ Not available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: 
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-MOGA686
+------------------------------------------------------------

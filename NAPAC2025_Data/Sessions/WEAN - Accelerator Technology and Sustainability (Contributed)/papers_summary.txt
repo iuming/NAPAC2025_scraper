@@ -1,0 +1,32 @@
+Session: WEAN - Accelerator Technology and Sustainability (Contributed)
+Session ID: WEAN
+URL: https://meow.elettra.eu/97/session/1181-wean/index.html
+Scrape time: 2025-11-04 00:03:47
+Paper count: 2
+Available presentations: 0/2
+Available papers: 2/2
+Available posters: 0/2
+================================================================================
+
+1. Paper ID: WEAN02
+   Title: Status of permanent magnet radiation resiliency studies at CEBAF630An ongoing investigation for the future of Jefferson Lab’s Continuous Electron Beam Accelerator Facility (CEBAF) lies in upgrading its maximum nominal energy using Fixed-Field Alternating-gradient (FFA) technology for its recirculating arcs, using permanent magnets for the FFA arcs. A common concern among the community is the degradation of these permanent magnets during operation due to the radiation environment in which they will be present. This work, funded by a Laboratory Directed R&D grant, aims to measure the permanent magnet degradation in the CEBAF tunnel enclosure, and extrapolate to the energies expected from the upgrade. We present the latest results of this study, as well as plans moving forward.
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/WEAN02.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-WEAN02
+------------------------------------------------------------
+2. Paper ID: WEAN03
+   Title: PMQ radiation resistance testing at NSLS-II634A new lattice for the NSLS-II upgrade is likely to use high strength (> 100 T/m) permanent magnet quadrupoles (PMQs). An ID beam exiting through these quadrupoles will place highly intense x-rays very close (~ 1mm) to the permanent-magnet material. In these tests the PMQs will be placed in the IFE (Instrumentation Front End) front end to assess any degradation of their field strengths and field quality due to long term exposure to an ID beam. The IFE beamline was recently commissioned at NSLS-II and is dedicated to testing the mechanical properties of accelerator materials and components. The description of the source and experimental setup will be given.
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/WEAN03.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-WEAN03
+------------------------------------------------------------

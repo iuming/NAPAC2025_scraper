@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+        Accelerator Technology and Sustainability (Contributed)
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        NAPAC2025 - Proceedings Sacramento, CA, USA
+
+
+Home
+        — Session
+        — Classification
+        — Authors 
+Institutes
+        — DOI of Institutes
+        — Keywords
+
+
+
+
+
+
+
+
+
+WEAN
+
+
+                -
+            
+
+                Accelerator Technology and Sustainability (Contributed)
+            
+
+                13 Aug 2025, 09:30 -
+                10:30
+            
+
+
+WEAN01Focusing of Relativistic Electron Beams With Permanent Magnetic SolenoidsAchieving strong focusing of MeV electron beams is a critical requirement for advanced beam applications such as compact laboratory X-ray sources, dielectric laser accelerators, and ultrafast electron diffraction (UED). To address these and similar relativistic electron focusing requirements, a compact radially magnetized permanent magnetic solenoid (PMS) has been designed, fabricated, and tested. The solenoid provides a compact and inexpensive solution for delivering high axial magnetic fields (1 Tesla) to focus MeV electron beams. Field characterization of the solenoid demonstrates excellent agreement with analytical models, validating the PMS design. The electron beam test employs a high-brightness photoinjector to study the focusing properties of the PMS. The results show a significant reduction in beam size with small spherical aberrations. Using the measured results, two application cases are evaluated: angular magnification in UED setups and strong focusing for Compton scattering or other microfocus uses.T. Xu, C. Duncan, R. England  SLAC National Accelerator LaboratoryP. Denham, P. Musumeci  University of California, Los AngelesCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+WEAN02Status of permanent magnet radiation resiliency studies at CEBAF630An ongoing investigation for the future of Jefferson Lab’s Continuous Electron Beam Accelerator Facility (CEBAF) lies in upgrading its maximum nominal energy using Fixed-Field Alternating-gradient (FFA) technology for its recirculating arcs, using permanent magnets for the FFA arcs. A common concern among the community is the degradation of these permanent magnets during operation due to the radiation environment in which they will be present. This work, funded by a Laboratory Directed R&D grant, aims to measure the permanent magnet degradation in the CEBAF tunnel enclosure, and extrapolate to the energies expected from the upgrade. We present the latest results of this study, as well as plans moving forward.R. Bodenstein, B. Gamage, B. Mosbrucker, D. Hamlette, E. Nissen, I. Neththikumara, J. Samari, J. Gubeli, J. Meyers, K. Jordan, K. Deitrick, M. Janak, M. Smith, N. Wilson, S. Shriner, S. Lee  Thomas Jefferson National Accelerator FacilityB. Shepherd  Science and Technology Facilities CouncilC. Decker  Thomas Jefferson National Accelerator Facility, Rose–Hulman Institute of Technology, Thomas Jefferson National Accelerator Facility; Rose–Hulman Institute of TechnologyS. Brooks  Brookhaven National LaboratoryS. Boogert  Cockcroft InstituteV. Okey-Ejiowhor  Thomas Jefferson National Accelerator Facility, St. Mary's University, Texas, Thomas Jefferson National Accelerator Facility; St. Mary's University, TexasW. Shields  Royal Holloway University of LondonPaper: WEAN02DOI: reference for this paper: 10.18429/JACoW-NAPAC2025-WEAN02About:  Received: 07 Aug 2025 — Revised: 10 Aug 2025 — Accepted: 14 Aug 2025 — Issue date: 08 Oct 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+WEAN03PMQ radiation resistance testing at NSLS-II634A new lattice for the NSLS-II upgrade is likely to use high strength (> 100 T/m) permanent magnet quadrupoles (PMQs). An ID beam exiting through these quadrupoles will place highly intense x-rays very close (~ 1mm) to the permanent-magnet material. In these tests the PMQs will be placed in the IFE (Instrumentation Front End) front end to assess any degradation of their field strengths and field quality due to long term exposure to an ID beam. The IFE beamline was recently commissioned at NSLS-II and is dedicated to testing the mechanical properties of accelerator materials and components. The description of the source and experimental setup will be given.T. Roff, M. Seegitz  National Synchrotron Light Source IIT. Shaftan, R. Todd, M. Johanson, S. Sharma, T. Tanabe, R. dos Santos Augusto  Brookhaven National LaboratoryPaper: WEAN03DOI: reference for this paper: 10.18429/JACoW-NAPAC2025-WEAN03About:  Received: 01 Aug 2025 — Revised: 12 Aug 2025 — Accepted: 12 Aug 2025 — Issue date: 08 Oct 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+
+
+

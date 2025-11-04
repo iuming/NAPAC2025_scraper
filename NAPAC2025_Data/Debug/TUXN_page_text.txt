@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+        Photon Sources and Electron Accelerators
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        NAPAC2025 - Proceedings Sacramento, CA, USA
+
+
+Home
+        — Session
+        — Classification
+        — Authors 
+Institutes
+        — DOI of Institutes
+        — Keywords
+
+
+
+
+
+
+
+
+
+TUXN
+
+
+                -
+            
+
+                Photon Sources and Electron Accelerators
+            
+
+                12 Aug 2025, 09:00 -
+                10:30
+            
+
+
+TUXN01A new multi-pulse kiloampere electron linac for dynamic x-radiographyThe Advanced Sources and Detectors (ASD) Scorpius project is a collaboration between Los Alamos National Laboratory, Lawrence Livermore National Laboratory, Sandia National Laboratories, and the Nevada National Security Sites to develop and build a multi-pulse kiloampere-class 22 MeV electron accelerator for dynamic x-radiography for national security. The project has begun fabrication and assembly and is scheduled to become operational in 2028. Notably, ASD Scorpius uses a solid-state pulsed power system to deliver an extremely flexible range of electron – and thus x-ray – pulses. Also, the location of the accelerator in a pre-existing mine deep underground in Nevada imposes significant design constraints. This presentation will describe the design, current status, and plans for ASD Scorpius.S. Assadi  Lawrence Livermore National Laboratory, Lawrence Livermore National SecurityCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+TUXN02X-ray Cavity Based XFELSCavity-based X-ray free-electron lasers present a promising path toward fully coherent, high-brightness X-ray sources with enhanced stability and spectral purity. By using Bragg-reflecting crystal cavities to recirculate and amplify an X-ray seed pulse over multiple passes, CBXFELs offer the potential for orders-of-magnitude improvements in coherence and brightness compared to single-pass FELs. This talk will present an overview of the CBXFEL concept and the proof-of-principle experiment currently under development at SLAC. Recent progress will be presented, along with ongoing efforts in beam–X-ray overlap diagnostics and cavity alignment. The talk will also address the key technical challenges ahead for CBXFELs and briefly explore alternative cavity-based XFEL designs as promising paths forward.M. Balcazar, A. Lutman, A. Halavanau, A. Sakdinawat, C. Curtis, D. Zhu, F. Decker, G. Gassner, G. Lanza, H. Nuhn, H. Wang, J. Mock, J. Hastings, M. Montironi, M. Bai, N. Balakrishnan, N. Burdet, P. Liu, S. Saraf, S. Koehlenbeck, T. Sato, T. Maxwell, X. Permanyer, Y. Liu, Z. Huang  SLAC National Accelerator LaboratoryA. Bernhard, D. Bianculli, D. Shu, J. Anton, K. Kim, M. Golebiowski, M. White, R. Margraf-O'Neal, R. Lindberg, Y. Shvydko  Argonne National LaboratoryB. Wyderski, C. Jing, M. Camarena  Euclid Techlabs (United States)B. Freemire  Euclid Beamlabs LLCJ. Tang  Stanford UniversityJ. Stein, W. Lewis  Osprey Distributed Control Systems LLCS. Antipov  Deutsches Elektronen-Synchrotron DESYS. Kearney  Advanced Photon SourceCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+TUXN03Demonstration of a reliable, high gain laser plasma accelerator driven free electron laser at BELLALaser plasma accelerators (LPAs) have emerged as a viable alternative to traditional accelerators for various applications, thanks to their capability to generate high-brightness beams and much higher accelerating gradients. This enables more compact designs for future light sources, such as free electron lasers (FELs). FEL technology leveraging LPA sources is progressing swiftly, with several key milestones achieved in recent years. However, significant work remains to be done to move from proof-of-concept experiments to the dependable operation of LPA-driven FELs. Recent initiatives at the BELLA center's Hundred Terawatt Undulator beamline, which includes an electron beam transport section leading to a 4-meter-long, strong focusing undulator, have successfully demonstrated the consistent operation of a high-gain FEL in the SASE regime. SASE gain is detectable on 90% of shots with measured SASE gain in excess of 1000.S. Barber  Lawrence Berkeley National LaboratoryCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+
+
+

@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+
+        Applications of Accelerators, Technology Transfer, Industrial Relations, and Outreach (Invited)
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        NAPAC2025 - Proceedings Sacramento, CA, USA
+
+
+Home
+        — Session
+        — Classification
+        — Authors 
+Institutes
+        — DOI of Institutes
+        — Keywords
+
+
+
+
+
+
+
+
+
+FRXN
+
+
+                -
+            
+
+                Applications of Accelerators, Technology Transfer, Industrial Relations, and Outreach (Invited)
+            
+
+                15 Aug 2025, 09:00 -
+                09:30
+            
+
+
+FRXN01Novel high gradient normal conducting linacs and their applicationsRecent SLAC research on novel design techniques for normal conducting accelerators has produced multiple new approaches to increase the gradient as well as the efficiency of these structures. Distributed coupling linacs, in which individual cells are fed through parallel power distribution manifolds, have enabled new flexibility in the optimization of the cell geometry to increase the accelerating gradient while constraining the local surface field enhancement to reduce susceptibility to breakdown. This innovation takes advantage of state-of-the-art high-power computing to fully model the linac, RF distribution network, and beam dynamics using tools like SLAC’s ACE3P modeling suite. Cold copper structures are another key example of the advances at SLAC where cryogenic operation has been shown to increase the shunt impedance and reduce the breakdown rate. SLAC is actively developing these techniques and pursuing new approaches, like driving structures with very short RF pulses. Design and simulation efforts are complimented by high power testing capabilities at the NLCTA Test Facility. SLAC is investigating applying these high gradient design advances to a wide array of accelerator applications spanning discovery science, medicine, and national security.E. Snively, A. Dhar, E. Nanni, M. Shumail, W. Tan, Z. Li  SLAC National Accelerator LaboratoryS. Tantawi  Arizona State UniversityCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+
+
+

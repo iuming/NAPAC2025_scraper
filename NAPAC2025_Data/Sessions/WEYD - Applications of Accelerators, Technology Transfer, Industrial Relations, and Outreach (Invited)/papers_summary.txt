@@ -1,0 +1,32 @@
+Session: WEYD - Applications of Accelerators, Technology Transfer, Industrial Relations, and Outreach (Invited)
+Session ID: WEYD
+URL: https://meow.elettra.eu/97/session/1182-weyd/index.html
+Scrape time: 2025-11-04 00:03:54
+Paper count: 2
+Available presentations: 0/2
+Available papers: 2/2
+Available posters: 0/2
+================================================================================
+
+1. Paper ID: WEYD01
+   Title: A plan to revitalize the domestic superconducting radio-frequency industry637Superconducting radio-frequency (SRF) cavities are essential building blocks of modern particle accelerators for scientific research, and they offer unique capabilities that could be transformative for commercial applications. Growth of the domestic SRF industry in North America has faced several challenges over the past decades, as most of the international demand for cavities was supplied by European vendors. This contribution provides a brief review of the domestic industrial vendor space, an outlook of the global demand for SRF cavities and an outline of the challenges leading to this supply chain deficiency. One of the main challenges towards establishing a robust domestic SRF industry has been the large uncertainty in the demand. Meanwhile, research and development activities to raise technical readiness of SRF accelerators for industrial use have continued and several potential markets are emerging that may offer a consistent and growing demand for SRF cavities. Finally, reasons and means of establishing and sustaining competitive domestic suppliers are described.
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/WEYD01.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-WEYD01
+------------------------------------------------------------
+2. Paper ID: WEYD02
+   Title: Accelerator-based medical isotope production: An overview of emerging trends and novel initiatives643Recent advances in drug development and radionuclide research have notably expanded the role of nuclear medicine in treating cancer over the past decade. Throughout such research and development efforts, the list of drug moieties and cancer types under investigation is paralleled by a similarly expansive list of radionuclides. This is because the suitability of a radionuclide for a therapeutic radiopharmaceutical application will depend on many factors including, but not limited to, the decay mode (e.g. α- vs β-emitter), the particle emission range, the matching of its half-life to the pharmacokinetics of the drug, and the co-emission of gamma rays of appropriate energy for imaging. Moreover, the successful adoption into clinical practice hinges on sustained, reliable, and cost-effective access to these radionuclides – a task which is not trivial. To this end, this presentation provides an overview of emerging trends in radionuclides (noting &LTsup>225</sup>Ac, &LTsup>211</sup>At, &LTsup>177</sup>Lu, and &LTsup>67</sup>Cu as examples), alongside novel initiatives for accelerator-based production strategies.
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✓ Available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/WEYD02.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-WEYD02
+------------------------------------------------------------

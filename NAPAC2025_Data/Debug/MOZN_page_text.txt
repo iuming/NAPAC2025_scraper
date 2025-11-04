@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+        Novel Particle Sources, Acceleration Techniques, and their Applications (Invited)
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        NAPAC2025 - Proceedings Sacramento, CA, USA
+
+
+Home
+        — Session
+        — Classification
+        — Authors 
+Institutes
+        — DOI of Institutes
+        — Keywords
+
+
+
+
+
+
+
+
+
+MOZN
+
+
+                -
+            
+
+                Novel Particle Sources, Acceleration Techniques, and their Applications (Invited)
+            
+
+                11 Aug 2025, 14:00 -
+                15:30
+            
+
+
+MOZN01Exploration of ultra-high dose rate radiobiology with laser-driven protons at BELLA30Laser-driven (LD) proton sources are of interest for various applications due to their ability to produce short proton bunches with high charge and low emittance. These sources can be used in biological studies investigating improvements to radiation cancer therapy. Recently, the differential sparing effect on normal tissues versus tumors using the delivery of high radiation doses >10 Gy at extremely high dose rates (DR), called FLASH effect, has received increasing attention. However, the molecular and cellular mechanisms underlying the sparing effect are not yet fully understood. To explore these mechanisms, we have implemented a beamline at the BELLA PW that delivers LD proton bunches at ultra-high instantaneous DR (UHIDR) up to $10^8$ Gy/s. This allowed us to investigate in vivo the acute skin damage and late radiation-induced fibrosis in mouse ears after UHIDR with 10 MeV LD protons and prescribed doses of several 10 Gy. We observe sparing of healthy mouse ear tissue after irradiations with LD proton bunches at UHIDR compared to irradiations with 300 kV x-rays at clinical dose rates and similar total dose. Recent improvements to the LD proton source, delivery beamline, and diagnostic suite have also enabled first peptide sample irradiations to explore the sparing effect on the molecular level. This talk will provide a summary of radiobiology research activities at the BELLA PW.L. Obst-Huebl, J. Inman, J. De Chant, K. Nakamura, A. Gonsalves, A. McIlvenny, J. Bin, B. Simmons, C. Geddes, C. Schroeder, C. Ralston, J. van Tilborg, J. Mao, S. Hakimi, S. Kidd, S. Subramanian, A. Snijders, E. Esarey  Lawrence Berkeley National LaboratoryB. Stassel  University of MichiganC. Palmer  Queen's University BelfastL. Geulig  Ludwig-Maximilians-Universität MünchenPaper: MOZN01DOI: reference for this paper: 10.18429/JACoW-NAPAC2025-MOZN01About:  Received: 07 Aug 2025 — Revised: 10 Aug 2025 — Accepted: 15 Aug 2025 — Issue date: 08 Oct 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+MOZN02Bright bunch generation in a short pulse high gradient RF gun operating in the transient regimeNormal-conducting accelerating structures capable of supporting GV/m-scale electric fields offer a promising pathway to compact accelerators. Similarly, achieving such high fields in photocathode guns is critical for the generation of bright electron bunches. Our group has demonstrated the generation of ~0.4 GV/m electric fields on a photocathode surface in an X-band (11.7 GHz) photoemission gun (Xgun) powered by short RF pulses (~9 ns). In this work, we investigate the RF characteristics and beam dynamics evolution in the transient field regime. Accurately accounting for the transient nature of the RF field is essential for optimizing the beam dynamics and ensuring the production of high-quality electron bunches.G. Chen, J. Power, P. Piot  Argonne National LaboratoryC. Jing  Euclid Techlabs (United States)Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+MOZN03Testing Photocathodes in Extreme ConditionsPhotocathodes are the electron sources of choice for accelerator applications that rely on bright and ultrashort electron bunches, including next-generation light sources and electron microscopes. These applications benefit significantly from photocathodes with low mean transverse energy (MTE), which directly contributes to higher beam brightness and better transverse coherence. However, the need for high charge densities, combined with the disordered structure of many photocathode materials, surface roughness, and spatial work function variations, limits the achievable MTE from conventional photocathodes to several hundred meV, which is nearly two orders of magnitude above the theoretical minimum. Additionally, most commonly used photocathodes degrade under high electric fields or intense laser fluences, posing challenges for reliable operation in advanced accelerator environments. Robust photocathodes capable of sustaining these extreme conditions while delivering bright electron beams with significantly reduced MTE are thus critical for enabling next-generation accelerator performance. In this talk, we will highlight recent advances in photocathode development and testing under extreme conditions, including high fields and cryogenic temperatures, conducted by the Center for Bright Beams (CBB, https://cbb.cornell.edu) and beyond toward brighter, more resilient electron sources.O. Chubenko  Northern Illinois UniversityCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+
+
+

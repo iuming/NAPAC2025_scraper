@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+        Accelerator Technology and Sustainability (Contributed)
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        NAPAC2025 - Proceedings Sacramento, CA, USA
+
+
+Home
+        — Session
+        — Classification
+        — Authors 
+Institutes
+        — DOI of Institutes
+        — Keywords
+
+
+
+
+
+
+
+
+
+TUCD
+
+
+                -
+            
+
+                Accelerator Technology and Sustainability (Contributed)
+            
+
+                12 Aug 2025, 14:30 -
+                15:30
+            
+
+
+TUCD01Traveling Wave excitation results in SRF Cavity With a Feedback Waveguide at 2K.Conventional SRF cavities are used in standing wave regime and are limited by surface fields to ~50 MV/m. In order to overcome this limit, Superconducting Traveling Wave (SCTW) cavity was proposed as it allows to achieve ~1.5 times higher accelerating gradient operating at lower phase advance per cell, thus improving transit time factor. However, power recirculation through a feedback waveguide is required to maintain cavity efficiency. Funded by the U.S. Department of Energy's SBIR program, Euclid Techalbs, in collaboration with Fermilab, demonstrated in the past the surface processing capability of a single-cell prototype with a feedback waveguide. Subsequently, a 3-cell prototype was designed and fabricated to demonstrate a traveling wave regime in SRF cavity with a feedback waveguide at cryogenic temperatures and the highest gradients. Previously, we have demonstrated the feasibility of traveling wave excitation and control at 2K in the cavity with highly loaded QL=1e6, which is typical for high current machines. Here we present our recent results of traveling wave control with a more challenging smaller bandwidth.R. Kostin  Euclid Techlabs (United States)Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+TUCD02Tuning-Free High-Gradient RF Structures: From SwissFEL to FCC-ee – A Scalable Technology for Future AcceleratorsAt the Paul Scherrer Institute (PSI), a novel, industrially scalable, and tuning-free manufacturing process for normal-conducting high-gradient C-band accelerating structures has been developed and successfully implemented for the Swiss Free-Electron Laser (SwissFEL). This approach, which eliminates RF post-production tuning, achieves excellent field flatness and phase accuracy through ultra-precision machining and brazing techniques. Over 100 accelerating structures were produced and installed without tuning, operating reliably with breakdown rates below 1e-9 bpp/m. Following SwissFEL’s commissioning and successful operation, PSI extended this process to other frequency bands, including S-band and X-band, for applications in collaborations with CERN, ELETTRA, and DESY. These efforts include the construction of X-band accelerating structures for CLIC, high-gradient S-band structures for the FERMI FEL upgrade, and the development of ultra-precise transverse deflecting structures (TDS) with variable polarization for advanced beam diagnostics. Building on this expertise, PSI is now leading a multi-institutional effort to develop the lepton injector for the FCC-ee, with plans for mass production of over 400 tuning-free RF structures. This contribution presents the evolution, deployment, and future prospects of tuning-free RF structure technology, underscoring its pivotal role in the next generation of accelerator infrastructures.P. Craievich  Paul Scherrer InstituteCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+TUCD03Operation and R&D of liquid lithium charge stripper at FRIB327Charge stripping is an essential technique for the efficient acceleration of heavy ions. The Facility for Rare Isotope Beams (FRIB) utilizes the Liquid Lithium Charge Stripper (LLCS) to produce the world’s most powerful heavy ion beams, so far demonstrated up to 20 kW with 200 MeV/u energy. In the FRIB driver linac, electrons are stripped by a thin film jet of liquid lithium flowing at 50 m/s. The LLCS has been in operation with FRIB’s linac since 2022 and will support the future ramp-up of the beam power to 400 kW. Our operation experiences have revealed that the performance of the LLCS will be further improved by increasing the film thickness twice and enhancing the uniformity and stability of the film. In this presentation, we report on the operational experiences with the current LLCS and various R&D activities for its future upgrade.R. Iwai, A. Plastun, B. Strunk, F. Marti, J. Wei, K. Hotton, L. Sabadin Zampieri, M. LaVere, P. Ostroumov, Q. Zhong, S. Cogan, S. Draeger, T. Kanemura, T. Maruta, T. Zhang  Facility for Rare Isotope BeamsQ. Zhao  Michigan State UniversityY. Momozaki  Facility for Rare Isotope Beams; Argonne National Laboratory, Argonne National Laboratory, Facility for Rare Isotope BeamsPaper: TUCD03DOI: reference for this paper: 10.18429/JACoW-NAPAC2025-TUCD03About:  Received: 08 Aug 2025 — Revised: 11 Aug 2025 — Accepted: 13 Aug 2025 — Issue date: 08 Oct 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+
+
+

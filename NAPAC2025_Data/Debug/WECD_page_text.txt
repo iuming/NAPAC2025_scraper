@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+        Beam Dynamics and EM Fields (Contributed)
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        NAPAC2025 - Proceedings Sacramento, CA, USA
+
+
+Home
+        — Session
+        — Classification
+        — Authors 
+Institutes
+        — DOI of Institutes
+        — Keywords
+
+
+
+
+
+
+
+
+
+WECD
+
+
+                -
+            
+
+                Beam Dynamics and EM Fields (Contributed)
+            
+
+                13 Aug 2025, 14:30 -
+                15:30
+            
+
+
+WECD01Simulations of IBS through electric field fluctuations668We present a study of intra-beam scattering (IBS) in high-brightness electron beams, incorporating a recent theory that accounts for enhanced temporal correlations of electric field fluctuations. These correlations, absent in conventional binary-collision models, arise from the periodic betatron motion of particles within the beam. To enable direct verification of the theoretical calculations, we perform simulations in a computer code specifically written for that purpose. In the code, the particle distribution is preserved over time, ensuring conditions compatible with theoretical assumptions, and the IBS is neatly separated from the conventional Space Charge (SC) effect. The simulations, benchmarked against an exactly solvable case of an infinite isotropic uniform plasma, show good agreement with both uncorrelated models, such as Piwinski’s, and the new correlation-based theory, across various bunch distributions and dynamical regimes. This validates the simulation approach and highlights the role of time-correlated fields in accurate IBS modeling.G. Stupakov  SLAC National Accelerator Laboratory, xLight IncorporatedS. Kladov, Y. Kim  University of ChicagoZ. Huang  SLAC National Accelerator LaboratoryPaper: WECD01DOI: reference for this paper: 10.18429/JACoW-NAPAC2025-WECD01About:  Received: 07 Aug 2025 — Revised: 10 Aug 2025 — Accepted: 10 Aug 2025 — Issue date: 08 Oct 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+WECD02Computing spin-polarization in electron storage rings by machine learning via randomized Fourier neural networks672Our work addresses the challenge of estimating spin po- larization in high-energy electron and positron storage rings, such as the Electron Storage Ring (ESR) of the Electron-Ion Collider (EIC) at Brookhaven National Lab (BNL) and those in the electron/positron Future Circular Collider (FCC-ee) at CERN. We model the spin and orbital motion of particle bunches using the recently introduced spin-orbit Fokker- Planck (SOFP) equation*, a linear time-evolution partial dif- ferential equation (PDE). In this paper, we propose a novel machine learning (ML) approach leveraging a randomized Fourier neural network (rFNN) framework**, specifically de- signed to solve linear PDEs. We will discuss the SOFP high- light its relevance to spin polarization studies, and share pre- liminary results demonstrating the network’s performance on the Poisson problem.J. Agudelo, K. Heinemann, M. Motamed  University of New MexicoPaper: WECD02DOI: reference for this paper: 10.18429/JACoW-NAPAC2025-WECD02About:  Received: 08 Aug 2025 — Revised: 12 Aug 2025 — Accepted: 15 Aug 2025 — Issue date: 08 Oct 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+WECD03Single-bunch instabilities at the Fermilab Recycler Ring676Understanding and characterizing collective instabilities is critical for high-intensity operation at the Fermilab Recycler Ring. This work presents an application of the the Nested Head-Tail (NHT) formalism for modeling single-bunch transverse instabilities, incorporating analytical solutions to the resistive wall and theta wake impedances in the absence of space charge. Predicted growth rates and mode structures are benchmarked against PyHEADTAIL simulations and ongoing experimental measurements. The experimental program includes studies of both bare-machine instabilities and beam behavior under transverse feedback (the Waker experiment), providing a comprehensive validation of the theoretical model. These results support the interpretation of Waker data and contribute to the development of predictive tools for beam stability in future high-intensity configurations.C. Gonzalez-Ortiz, R. Ainsworth  Fermi National Accelerator LaboratoryPaper: WECD03DOI: reference for this paper: 10.18429/JACoW-NAPAC2025-WECD03About:  Received: 10 Aug 2025 — Revised: 11 Aug 2025 — Accepted: 11 Aug 2025 — Issue date: 08 Oct 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+
+
+

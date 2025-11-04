@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+
+        Beam Instrumentation, Controls, AI/ML, and Operational Aspects (Invited)
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        NAPAC2025 - Proceedings Sacramento, CA, USA
+
+
+Home
+        — Session
+        — Classification
+        — Authors 
+Institutes
+        — DOI of Institutes
+        — Keywords
+
+
+
+
+
+
+
+
+
+TUZN
+
+
+                -
+            
+
+                Beam Instrumentation, Controls, AI/ML, and Operational Aspects (Invited)
+            
+
+                12 Aug 2025, 14:00 -
+                14:30
+            
+
+
+TUZN01High-dimensional maximum-entropy phase space tomography321Inferring 4D or 6D phase space distributions from 1D or 2D measurements is a challenging inverse problem encountered in particle accelerators. Entropy maximization (ME) is an established method to incorporate prior information in under-constrained problems but is typically infeasible in high-dimensional spaces. In this talk, I discuss two approaches to high-dimensional ME. The first approach extends the Generative Phase Space Reconstruction (GPSR) algorithm, utilizing a class of generative models called normalizing flows which provide stochastic differentiable entropy estimates. The second approach modifies the classic MENT algorithm, using the method of Lagrange multipliers and Markov Chain Monte Carlo (MCMC) sampling to solve the constrained optimization. After reviewing the theory behind these approaches, I describe numerical tests of their convergence and accuracy, followed by applications to experimental data. I conclude by mentioning possible routes to uncertainty quantification within the ME framework.A. Hoover  Oak Ridge National LaboratoryPaper: TUZN01DOI: reference for this paper: 10.18429/JACoW-NAPAC2025-TUZN01About:  Received: 08 Aug 2025 — Revised: 10 Aug 2025 — Accepted: 12 Aug 2025 — Issue date: 08 Oct 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+
+
+

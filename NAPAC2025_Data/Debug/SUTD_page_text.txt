@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+
+        Sunday Tutorial
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        NAPAC2025 - Proceedings Sacramento, CA, USA
+
+
+Home
+        — Session
+        — Classification
+        — Authors 
+Institutes
+        — DOI of Institutes
+        — Keywords
+
+
+
+
+
+
+
+
+
+SUTD
+
+
+                -
+            
+
+                Sunday Tutorial
+            
+
+                10 Aug 2025, 10:30 -
+                13:00
+            
+
+
+SUTD01High brightness electron injectorsHigh-brightness electron injectors are foundational to the performance of modern particle accelerators, enabling applications from X-ray free-electron lasers to ultrafast electron diffraction and advanced accelerator concepts. This tutorial will provide an overview of the physics and design principles underlying high-brightness injectors, including photocathode radiofrequency (RF) guns, beam emittance preservation, space-charge effects, and brightness optimization strategies. We will review state-of-the-art injector technologies, diagnostic techniques, and recent advances in cathode materials and RF structures. The tutorial is aimed at graduate students, early-career researchers, and accelerator professionals seeking a deeper understanding of injector systems and their role in driving next-generation accelerator performance.J. Maxson  Cornell UniversityP. Musumeci  University of California, Los AngelesCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+
+
+

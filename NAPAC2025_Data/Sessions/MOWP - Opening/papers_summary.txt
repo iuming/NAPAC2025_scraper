@@ -1,0 +1,22 @@
+Session: MOWP - Opening
+Session ID: MOWP
+URL: https://meow.elettra.eu/97/session/1161-mowp/index.html
+Scrape time: 2025-11-03 22:07:56
+Paper count: 1
+Available presentations: 0/1
+Available papers: 0/1
+Available posters: 0/1
+================================================================================
+
+1. Paper ID: MOWP01
+   Title: NAPAC 2025 Opening
+   Authors: T. Raubenheimer  SLAC National Accelerator Laboratory
+   Page: 
+   Presentation Status: ✗ Not available
+   Paper Status: ✗ Not available
+   Poster Status: ✗ Not available
+   Presentation URL: 
+   Paper URL: https://meow.elettra.eu/97/pdf/mowp01.pdf
+   Poster URL: 
+   DOI: https://doi.org/10.18429/JACoW-NAPAC2025-MOWP01
+------------------------------------------------------------

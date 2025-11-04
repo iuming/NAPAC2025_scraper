@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+        Beam Instrumentation, Controls, AI/ML, and Operational Aspects (Contributed)
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        NAPAC2025 - Proceedings Sacramento, CA, USA
+
+
+Home
+        — Session
+        — Classification
+        — Authors 
+Institutes
+        — DOI of Institutes
+        — Keywords
+
+
+
+
+
+
+
+
+
+TUCN
+
+
+                -
+            
+
+                Beam Instrumentation, Controls, AI/ML, and Operational Aspects (Contributed)
+            
+
+                12 Aug 2025, 14:30 -
+                15:30
+            
+
+
+TUCN01Experience Integrating Online Modeling / Adaptive Digital Twin Infrastructure and ML-based Tuning for Accelerator Control at SLACSLAC and collaborators are developing infrastructure and algorithms for deploying online physics models and combining them with machine learning (ML) models and ML-based feedback from its running accelerators. These models predict details of the beam phase space distribution, include nonlinear collective effects, and leverage high performance computing and ML-based acceleration of simulations to enable execution in reasonable times for control room use. By enabling accelerator system models to be adapted over time and increasing the speed of model execution, these system models can provide useful information for both human-driven and automated tuning. System models such as these are sometimes called "digital twins", which are distinguished from offline models by the bi-directional flow of information with the real system. We have also been leveraging these system models to speed up accelerator tuning, by providing initial guesses of settings (i.e. "warm starts") and physics information to speed up ML-based tuning. For example, we have used these models to provide priors for Bayesian optimization and training platforms for reinforcement learning. Here, we give and overview of these developments (both research and infrastructure), our deployment experience, and applications at LCLS, LCLS-II, and FACET-II, with a focus on emittance tuning, FEL pulse intensity tuning, and phase space shaping. We also discuss ongoing collaborations with LBNL, JLAB, FNAL, and BNL in this space.A. Edelen, C. Bisegni, E. Williams, G. Bhardwaj, J. Bellister, R. Roussel, S. Miskovich  SLAC National Accelerator LaboratoryJ. Blashke, R. Lehe, R. Jambunathan  Lawrence Berkeley National LaboratoryCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+TUCN02Electro-optic sampling beam positioning monitor for relativistic electron beams331Non-destructive diagnostics able to resolve transverse offsets and longitudinal separation of ultra-relativistic, two-bunch electron beams are necessary for a variety of applications including the ion channel laser (ICL) and other plasma wakefield (PWFA) experiments. A prototype electro-optic beam positioning monitor (EOS-BPM) utilizing two independent laser pulses traveling through a pair of EO crystals has been installed at the SLAC National Accelerator Laboratory FACET-II facility. This system is capable of order 10 fs temporal resolution and order 100 µm transverse position resolution. To achieve better transverse resolution we introduce a new design using an axicon lens to create a donut beam and a multi-crystal structure placed around the axis of propagation of the electron beam. Experimental results of the prototype EOS-BPM along with the simulated response of the new EOS-BPM design to the ultra-relativistic, two-bunch electron beam used for PWFA experiments at FACET-II will be presented.E. Ros, C. Hansel, M. Litos, S. Meng, V. Lee  University of Colorado BoulderA. Knetsch  SLAC National Accelerator Laboratory, Laboratoire d'Optique AppliquéeB. O'Shea, M. Hogan, R. Ariniello  SLAC National Accelerator LaboratoryD. Matteo, G. Andonian, T. Hodgetts  RadiaBeam Technologies (United States)Paper: TUCN02DOI: reference for this paper: 10.18429/JACoW-NAPAC2025-TUCN02About:  Received: 11 Aug 2025 — Revised: 12 Aug 2025 — Accepted: 13 Aug 2025 — Issue date: 08 Oct 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+TUCN03SRF cavity instability detection with machine learning at CEBAF335During the operation of the Continuous Electron Beam Accelerator Facility (CEBAF), one or more unstable superconducting radio-frequency (SRF) cavities often cause beam loss trips while the unstable cavities themselves do not necessarily trip off. The present RF controls for the legacy cavities report at only 1 Hz, which is too slow to detectfast transient instabilities during these trip events. These challenges make the identification of an unstable cavity out of the hundreds installed at CEBAF a difficult and time-consuming task. To tackle these issues, a fast data acquisition system (DAQ) for the legacy SRF cavities has been developed, which records the sample at 5 kHz. An unsupervised learning framework has been developed to identify anomalous SRF cavity behavior. We will discuss the present status of the DAQ system and our framework, along with recent successes in detecting anomalous cavity behavior. Overall, our method offers a practical solution for identifying unstable SRF cavities, contributing to increased beam availability and machine reliability.D. Turner, R. Bachimanchi, A. Carpenter, H. Ferguson, J. Latshaw, C. Tennant, D. Thomas  Thomas Jefferson National Accelerator FacilityPaper: TUCN03DOI: reference for this paper: 10.18429/JACoW-NAPAC2025-TUCN03About:  Received: 06 Aug 2025 — Revised: 12 Aug 2025 — Accepted: 14 Aug 2025 — Issue date: 08 Oct 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+
+
+

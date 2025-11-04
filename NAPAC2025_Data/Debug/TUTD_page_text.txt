@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+
+        Tuesday Tutorial
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        NAPAC2025 - Proceedings Sacramento, CA, USA
+
+
+Home
+        — Session
+        — Classification
+        — Authors 
+Institutes
+        — DOI of Institutes
+        — Keywords
+
+
+
+
+
+
+
+
+
+TUTD
+
+
+                -
+            
+
+                Tuesday Tutorial
+            
+
+                12 Aug 2025, 09:00 -
+                10:30
+            
+
+
+TUTD01Generative Deep Learning for Particle AcceleratorsGenerative deep learning has emerged as a transformational technology for a wide range of tasks including tools such as Stable Diffusion, IMAGEN, DALL-E, and Midjourney for image generation from user-defined captions, AlphaFold for prediction of 3D protein structures directly from amino acid sequences, and large language models such as GPT and Claude which can carry on conversations, summarize documents, and write custom computer code. For particle accelerators, such generative models have amazing potential for various tasks including surrogate models, virtual beam diagnostics, automated adaptive beam tuning and optimization for autonomous accelerator control, and accelerator design. This talk gives an overview of state-of-the art generative AI techniques including transformers, which are the backbone of large language models and are state-of-the-art for learning distant dependencies in long sequences of data, variational autoencoders, and diffusion-based generative models which are the state-of-the-art for creating high resolution representations of complex objects. The tutorial will also discuss how feedback and hard physics constraints can be built into these generative frameworks to make robust tools for complex time-varying dynamic systems. The tutorial will also present examples of how these models are being utilized in science in general and specifically for a wide range of accelerator applications such as generative models for virtual 6D phase space diagnostics.A. Scheinker  Los Alamos National LaboratoryCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+
+
+

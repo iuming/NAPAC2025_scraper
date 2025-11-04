@@ -1,0 +1,56 @@
+{
+  "session_info": {
+    "id": "TUBN",
+    "name": "TUBN - Novel Particle Sources, Acceleration Techniques, and their Applications (Contributed)",
+    "url": "https://meow.elettra.eu/97/session/1173-tubn/index.html"
+  },
+  "papers": [
+    {
+      "paper_id": "TUBN01",
+      "title": "Flat beam PWFA theory and experiment at",
+      "authors": [],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "",
+      "paper_url": "https://meow.elettra.eu/97/pdf/TUBN01.pdf",
+      "poster_url": "",
+      "doi": "https://doi.org/10.18429/JACoW-NAPAC2025-TUBN01",
+      "page_number": "",
+      "presentation_available": false,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "AWA314",
+      "title": "A wakefield experiment at the Argonne Wakefield Accelerator (AWA) facility utilizes flat electron beams with highly asymmetric transverse emittances to drive plasma wakefields in the underdense regime. These beams create elliptical blowout structures, producing asymmetric transverse focusing forces. The experiment utilizes a compact 4-cm-long capillary discharge plasma source developed at UCL",
+      "authors": [],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "",
+      "paper_url": "",
+      "poster_url": "",
+      "doi": "https://doi.org/10.18429/JACoW-NAPAC2025-AWA314",
+      "page_number": "",
+      "presentation_available": false,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUBN03",
+      "title": "Picometer-scale emittance and space charge effects in nanostructured photocathodes317Generation of ultralow-emittance electron beams with high brightness is critical for several applications such as ultrafast electron diffraction, microscopy, and advanced accelerator techniques. By leveraging the differences in work function and electronic structure between different materials, we enabled spatially localized photoemission, resulting in picometer-scale emittance from a flat photocathode. We also investigated space charge effects by measuring how the emission spot size, as measured in a photoemission electron microscope, changes with the number of electrons emitted per laser pulse. When more than one electron is emitted simultaneously, Coulomb repulsion causes a substantial broadening of the observed source size, enabling us to investigate the limitations imposed by vacuum space charge forces during pulsed photoemission. Our results highlight the potential of nanoscale photoemitters as high-brightness electron sources and offer new insights into electron correlations that emerge after ultrafast photoemission.",
+      "authors": [],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "",
+      "paper_url": "https://meow.elettra.eu/97/pdf/TUBN03.pdf",
+      "poster_url": "",
+      "doi": "https://doi.org/10.18429/JACoW-NAPAC2025-TUBN03",
+      "page_number": "",
+      "presentation_available": false,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 3,
+  "scrape_time": "2025-11-03 23:58:32"
+}

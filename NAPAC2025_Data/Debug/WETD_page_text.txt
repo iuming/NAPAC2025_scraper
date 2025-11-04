@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+
+        Wednesday Tutorial
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        NAPAC2025 - Proceedings Sacramento, CA, USA
+
+
+Home
+        — Session
+        — Classification
+        — Authors 
+Institutes
+        — DOI of Institutes
+        — Keywords
+
+
+
+
+
+
+
+
+
+WETD
+
+
+                -
+            
+
+                Wednesday Tutorial
+            
+
+                13 Aug 2025, 09:00 -
+                10:30
+            
+
+
+WETD01Harnessing Nonlinearity in Beam OpticsThis tutorial will revise key topics in nonlinear accelerator dynamics, including detuning, integrability and quasi-integrability, chaos detection, symmetries, and approximate invariants. We will examine the complexities of dynamic aperture in modern accelerator design, with a focus on the delicate balance between long-term stability and resonance overlap. This part will address the practical challenges of defining and evaluating the regions of phase space accessible to particles, and the impact these considerations have on machine performance. Building on this foundation, we will highlight recent theoretical advances in integrable and quasi-integrable optics, outlining potential strategies for designing alternative beam lattices that sustain stable, structured nonlinear motion and help reduce particle losses. In the final section, we will discuss the introduction of nonlinear Courant–Snyder invariants and demonstrate their practical application in operating accelerators, drawing on examples from the Fermilab complex. Through this comprehensive tutorial, participants will gain a deeper understanding of both fundamental principles and modern techniques for managing nonlinearity in accelerator systems, better equipping them to tackle the dynamic challenges of today’s high-performance machines.T. Zolkin  Independent Researcher, Fermi National Accelerator LaboratoryCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+
+
+

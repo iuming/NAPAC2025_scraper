@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+        Hadron Accelerators (Invited)
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        NAPAC2025 - Proceedings Sacramento, CA, USA
+
+
+Home
+        — Session
+        — Classification
+        — Authors 
+Institutes
+        — DOI of Institutes
+        — Keywords
+
+
+
+
+
+
+
+
+
+MOZD
+
+
+                -
+            
+
+                Hadron Accelerators (Invited)
+            
+
+                11 Aug 2025, 14:00 -
+                15:30
+            
+
+
+MOZD01The Fermilab Accelerator Complex in the multi-MW eraThe Fermilab Accelerator Complex is currently home to the world's most powerful neutrino beam, driven by a 1 MW 120 GeV proton beam. The forthcoming PIPII upgrade will further enhance this capability, although additional enhancements are necessary to meet the integrated beam requirements of the DUNE project. The past performance will be summarized and the Accelerator Complex Evolution (ACE) plan will be outlined, which involves various strategies for achieving multi-MW beams. In particular, the ACE-MIRT component, which involves upgrading the Main Injector and targetry will be discussed in detail.R. Ainsworth  Fermi National Accelerator LaboratoryCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+MOZD02Beam Based Alignment in the CeC ExperimentDuring the coherent electron cooling (CeC) experiment at RHIC, we have encountered various challenges to align the electron beam both in the low energy beam transfer line (LEBT) and in the cooling section. For example, the electrons exit the SRF gun with an orbital angle of tens of milli-radian, which is likely caused by the misalignment of the cavity inside the cryostat as well as the tilted cathode. The significant orbital angle leads to transversely asymmetric beam in the LEBT section with deteriorated emittance. In run 23 and run 24, we have demonstrated that such orbital angle at the exit of the gun can be minimized by adjusting the position of the laser spot at the cathode. Another challenge is to align the orbit of the cooling electron beam with the circulating ion beam in the cooling section. Over the past few years, we have developed a procedure to ensure the transverse alignment to the precision of 0.1mm. The proper alignment of the two beams has been confirmed by significant growth of the ion beam’s longitudinal emittance due to its interaction with the electron beam as well as increased signal from the recombination monitor. In this paper, we will present the techniques developed for beam alignment with experimental results obtained in the CeC experiment.G. Wang, I. Pinayev, I. Petrushina, J. Ma, K. Shih, Y. Jing  Brookhaven National LaboratoryV. Litvinenko  Stony Brook UniversityCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+MOZD03A test stand for LAMP, the LANSCE accelerator modernization projectThe Los Alamos Neutron Science Center (LANSCE) has been in service for over 50 years. The LANSCE accelerator is exhibiting an increasing rate of end-of-life issues, particularly in the “front end” region – from the ion sources to the end of the 100-MeV drift tube linac (DTL). The LANSCE Accelerator Modernization Project (LAMP), recently been approved for CD-0, will replace the existing LANSCE front end with new ion sources followed by an RFQ and new DTL, with co-acceleration of H- and H+ through the RFQ and DTL. This talk outlines the scope of the LAMP project with a focus on the efforts of building and commissioning the RFQ Test Stand which will demonstrate simultaneous dual beam species through an RFQ.R. Thornton, G. Dale, J. Lewellen, K. Bishofberger  Los Alamos National LaboratoryCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+
+
+

@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+        Colliders and other Particle and Nuclear Physics Accelerators (Invited)
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        NAPAC2025 - Proceedings Sacramento, CA, USA
+
+
+Home
+        — Session
+        — Classification
+        — Authors 
+Institutes
+        — DOI of Institutes
+        — Keywords
+
+
+
+
+
+
+
+
+
+MOYD
+
+
+                -
+            
+
+                Colliders and other Particle and Nuclear Physics Accelerators (Invited)
+            
+
+                11 Aug 2025, 11:00 -
+                12:30
+            
+
+
+MOYD01The future circular collider in Europe7The proposed Future Circular Collider (FCC) integrated programme consists of two stages: An electron–positron collider serving as a highest-luminosity Higgs-boson, electroweak and top-quark factory, followed by a proton–proton collider with a collision energy around 100 TeV. In 2021, the CERN Council initiated the FCC Feasibility Study. This study covered, inter alia, physics objectives and potential, geology, civil engineering, technical infrastructure, territorial implementation, environmental aspects, R&D needs for the accelerators and detectors, socio-economic benefits, and cost. The Feasibility Study was completed on 31 March 2025. The subsequent European Strategy Symposium has singled out the FCC as the by-far preferred future collider option for CERN. I will present a few study highlights, the status, and the next steps.F. Zimmermann, M. Benedikt  European Organization for Nuclear ResearchPaper: MOYD01DOI: reference for this paper: 10.18429/JACoW-NAPAC2025-MOYD01About:  Received: 08 Aug 2025 — Revised: 12 Aug 2025 — Accepted: 12 Aug 2025 — Issue date: 08 Oct 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+MOYD02Recent experience with high-luminosity operation of SuperKEKB14SuperKEKB is a positron-electron collider with a nano-beam scheme. The nano-beam scheme allows the extremely low beta function at the interaction point (IP) compared to the bunch length, namely ordinary colliders. The beta function at the IP is less than 1 mm which is the smallest value among the previous colliders. Recent results on beam-beam interactions, beam injection under the influence of beam-beam interactions, and a performance of the crab-waist scheme that improves the luminosity performance are discussed. Sudden beam loss (SBL), which cannot be explained by usual beam dynamics, and the nonlinear collimator as a key device to reduce both beam background and impedance are also crucial issues. We present the recent machine operation and performance of SuperKEKB which predicts the future high energy and luminosity colliders.Y. Ohnishi  High Energy Accelerator Research OrganizationPaper: MOYD02DOI: reference for this paper: 10.18429/JACoW-NAPAC2025-MOYD02About:  Received: 05 Aug 2025 — Revised: 11 Aug 2025 — Accepted: 15 Aug 2025 — Issue date: 08 Oct 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+MOYD03Recent Developments for a High-Energy Linear ColliderAs part of the European Strategy in Particle Physics Update (ESPPU) the particle physics community is evaluating the options for the next flagship project at CERN. Immense interest in exploring the physics of the Higgs sector and the potential for discovering new physics at high energy is at the core of our motivation for pursuing the next particle collider. The Linear Collider Vision collaboration is exploring how this physics can be pursued with a linear collider facility (LCF) at CERN. A LCF with polarized electron and positron beams, reaching energies of up to about 1 tera electron volt (TeV), would offer a rich program to explore the Higgs boson, the top quark and perform search for new physics in a way that is highly complementary to HL-LHC. Technology upgrades could push this energy reach even higher. In this talk we will present recent developments in linear colliders and technical challenges of implementing a linear collider at CERN. An overview of the Linear Collider Vision and LCF @ CERN inputs to the ESPPU will be presented.E. Nanni  SLAC National Accelerator LaboratoryCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+
+
+

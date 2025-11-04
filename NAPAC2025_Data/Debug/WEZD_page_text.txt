@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+
+        Beam Dynamics and EM Fields (Invited)
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        NAPAC2025 - Proceedings Sacramento, CA, USA
+
+
+Home
+        — Session
+        — Classification
+        — Authors 
+Institutes
+        — DOI of Institutes
+        — Keywords
+
+
+
+
+
+
+
+
+
+WEZD
+
+
+                -
+            
+
+                Beam Dynamics and EM Fields (Invited)
+            
+
+                13 Aug 2025, 14:00 -
+                14:30
+            
+
+
+WEZD01Symplectic Neural Network Surrogate Models for Applications to Beam DynamicsDevelopment of robust machine-learning (ML) based surrogates for particle accelerators can significantly benefit the modeling, design, optimization, monitoring and control of these systems. It is advantageous for surrogate models to incorporate fundamental physical constraints governing beam interactions and dynamics, which are essential to the operation of an accelerator. We investigate two classes of phase space structure-preserving neural networks — SympMat for linear beam dynamics and Henon Neural Networks (HenonNets) for nonlinear beam dynamics problems. For the linear case, we introduce a simple and effective parameterization of arbitrary linear symplectic matrices. To address potential nonlinearities in the parameter space, we employ a conditional parameterization strategy. For nonlinear beam dynamics, we develop parametric HenonNets with a universal symplectic approximation theorem. We demonstrate the effectiveness of the proposed symplectic neural networks through examples involving charged particle dynamics and both linear and nonlinear beam dynamics. Our results suggest that these symplectic neural networks can serve as promising ML-based surrogate models for complex beam dynamics systems.Q. Tang  Georgia Institute of TechnologyCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+
+
+

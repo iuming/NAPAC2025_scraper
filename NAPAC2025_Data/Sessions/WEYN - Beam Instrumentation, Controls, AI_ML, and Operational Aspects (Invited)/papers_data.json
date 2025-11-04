@@ -1,0 +1,56 @@
+{
+  "session_info": {
+    "id": "WEYN",
+    "name": "WEYN - Beam Instrumentation, Controls, AI/ML, and Operational Aspects (Invited)",
+    "url": "https://meow.elettra.eu/97/session/1183-weyn/index.html"
+  },
+  "papers": [
+    {
+      "paper_id": "WEYN01",
+      "title": "Machine learning-enhanced deterministic controls in lasers and accelerators646Modern laser and accelerator systems demand fast, precise, and scalable multi-input multi-output (MIMO) feedback control. As requirements extend into high-repetition-rate and nonlinear regimes, traditional strategies increasingly struggle to deliver the necessary speed and adaptability. This talk presents two cases where machine learning (ML) enhances deterministic feedback control. In both, ML models—trained on experimental or simulated data—provide rapid predictions to guide real-time decisions. Integrated into conventional feedback loops, they substantially improve response speed and robustness across diverse operating conditions. At Lawrence Berkeley National Laboratory, ML feedback enabled the first preemptive pointing stabilization at the BELLA Petawatt beamline, achieving a ~60% reduction in jitter and reduced response time in a coherent beam combining system by nearly an order of magnitude. These results show that ML can increase speed, stability, and adaptability without compromising determinism, opening new opportunities for intelligent control in next-generation facilities.",
+      "authors": [],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "",
+      "paper_url": "https://meow.elettra.eu/97/pdf/WEYN01.pdf",
+      "poster_url": "",
+      "doi": "https://doi.org/10.18429/JACoW-NAPAC2025-WEYN01",
+      "page_number": "",
+      "presentation_available": false,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "WEYN02",
+      "title": "Safe extremum seeking for real-time adaptive accelerator control652This talk presents Safe Extremum Seeking (Safe ES), a robust n-dimensional adaptive control method, applied to automatic tuning and optimization tasks of accelerators while guaranteeing that the system remains within safe operating conditions. A key strength of Safe ES is its ability to handle safety measures that are analytically unknown. For instance, the algorithm can adaptively tune quadrupole magnets to achieve a desired beam profile while maintaining safety by keeping beam losses below a user-defined threshold. The presentation provides a comprehensive technical overview of this optimization technique, highlighting its theoretical foundations and practical applications. It includes simulation studies demonstrating its effectiveness for accelerator systems, as well as results from an in-hardware demonstration conducted on the LANSCE accelerator at LAN",
+      "authors": [],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "",
+      "paper_url": "https://meow.elettra.eu/97/pdf/WEYN02.pdf",
+      "poster_url": "",
+      "doi": "https://doi.org/10.18429/JACoW-NAPAC2025-WEYN02",
+      "page_number": "",
+      "presentation_available": false,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "WEYN03",
+      "title": "Measurements of ultralow emittance and transverse coherence at the Advanced Photon Source Upgrade storage ring658Recent electron storage ring light sources continue to push towards increasingly lower electron beam sizes. In the present work, we report on the measurements of the electron beam emittance (sub 50 pm rad) achieved at the Advanced Photon Source Upgrade (APS–U), as well as its standing among electron storage ring light sources. We include a brief status update on the beam size monitor beamline at the APS–",
+      "authors": [],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "",
+      "paper_url": "https://meow.elettra.eu/97/pdf/WEYN03.pdf",
+      "poster_url": "",
+      "doi": "https://doi.org/10.18429/JACoW-NAPAC2025-WEYN03",
+      "page_number": "",
+      "presentation_available": false,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 3,
+  "scrape_time": "2025-11-04 00:04:01"
+}

@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+        Beam Dynamics and EM Fields (Invited)
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        NAPAC2025 - Proceedings Sacramento, CA, USA
+
+
+Home
+        — Session
+        — Classification
+        — Authors 
+Institutes
+        — DOI of Institutes
+        — Keywords
+
+
+
+
+
+
+
+
+
+THYD
+
+
+                -
+            
+
+                Beam Dynamics and EM Fields (Invited)
+            
+
+                14 Aug 2025, 11:00 -
+                12:30
+            
+
+
+THYD01Collective effects: Challenges and solutions for the EIC Project914The Electron-Ion Collider (EIC) project at Brookhaven National Laboratory aims to deliver groundbreaking insights into the fundamental structure of matter through high-energy collisions involving electrons, ions, protons, or helium-3 nuclei. Achieving the desired luminosity and maintaining stability in this complex accelerator environment pose significant challenges, particularly concerning impedance and collective effects. One such challenge is ensuring beam stability during electron cooling at the injection energy in the Hadron Storage Ring (HSR) to effectively mitigate proton emittance growth. Potential solutions include advanced simulation techniques using the ELEGANT code and applying the Haissinski solution for the proton beam to determine single-bunch instability thresholds, both with and without a second harmonic cavity.A. Blednykh  Brookhaven National LaboratoryPaper: THYD01DOI: reference for this paper: 10.18429/JACoW-NAPAC2025-THYD01About:  Received: 06 Aug 2025 — Revised: 13 Aug 2025 — Accepted: 14 Aug 2025 — Issue date: 08 Oct 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+THYD02Comparison of predicted and measured collective effects in a fourth generation storage ring920Predicting, measuring, and mitigating collective instabilities in storage rings is important to maximize their performance. We will describe our efforts to theoretically compute and characterize collective effects during the design process, and how these continue during early operations. We then show how these predictions compare to measured collective effects at the APS-U, both with and without the harmonic cavity to lengthen the bunch.out using the harmonic cavity to lengthen the bunch.R. Lindberg  Argonne National LaboratoryPaper: THYD02DOI: reference for this paper: 10.18429/JACoW-NAPAC2025-THYD02About:  Received: 08 Aug 2025 — Revised: 15 Aug 2025 — Accepted: 15 Aug 2025 — Issue date: 08 Oct 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+THYD03Halo formation in high-intensity Linacs: Modeling and advanced phase space diagnostics926Work at the SNS Beam Test Facility aims to characterize halo formation in the early stages of a high-power linac and to reproduce halo measurements with well-benchmarked particle-in-cell simulations. The BTF is equipped with advanced phase space diagnostics that enable detailed characterization of beam distributions at the beginning and end of a 2.5 MeV, 10 meter test beamline. Diagnostic capabilities include direct measurement of the 6D phase space distribution, as well as imaging of 2D phase space projections with 6 orders of magnitude in dynamic range. This talk will compare predictions from the PyORBIT code to measured distributions, as well as discuss the parameters and limitations of the simulation model.A. Aleksandrov, A. Zhukov, K. Ruisard, T. Thompson  Oak Ridge National LaboratoryPaper: THYD03DOI: reference for this paper: 10.18429/JACoW-NAPAC2025-THYD03About:  Received: 09 Aug 2025 — Revised: 13 Aug 2025 — Accepted: 14 Aug 2025 — Issue date: 08 Oct 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+
+
+

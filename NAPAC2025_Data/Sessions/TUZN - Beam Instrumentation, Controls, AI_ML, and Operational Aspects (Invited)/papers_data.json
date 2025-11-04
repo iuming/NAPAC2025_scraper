@@ -1,0 +1,26 @@
+{
+  "session_info": {
+    "id": "TUZN",
+    "name": "TUZN - Beam Instrumentation, Controls, AI/ML, and Operational Aspects (Invited)",
+    "url": "https://meow.elettra.eu/97/session/1175-tuzn/index.html"
+  },
+  "papers": [
+    {
+      "paper_id": "TUZN01",
+      "title": "High-dimensional maximum-entropy phase space tomography321Inferring 4D or 6D phase space distributions from 1D or 2D measurements is a challenging inverse problem encountered in particle accelerators. Entropy maximization (ME) is an established method to incorporate prior information in under-constrained problems but is typically infeasible in high-dimensional spaces. In this talk, I discuss two approaches to high-dimensional M",
+      "authors": [],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "",
+      "paper_url": "https://meow.elettra.eu/97/pdf/TUZN01.pdf",
+      "poster_url": "",
+      "doi": "https://doi.org/10.18429/JACoW-NAPAC2025-TUZN01",
+      "page_number": "",
+      "presentation_available": false,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 1,
+  "scrape_time": "2025-11-03 23:58:44"
+}

@@ -1,0 +1,26 @@
+{
+  "session_info": {
+    "id": "WEZN",
+    "name": "WEZN - Photon Sources and Electron Accelerators (Invited)",
+    "url": "https://meow.elettra.eu/97/session/1201-wezn/index.html"
+  },
+  "papers": [
+    {
+      "paper_id": "WEZN01",
+      "title": "Design progress for the 22 GeV CEBAF energy upgrade664In this work we examine the progress made in the design of the proposed FFA upgrade to the Continuous Electron Beam Accelerator Facility (CEBAF). This proposed upgrade will double the number of passes through the two linacs by replacing the two highest energy arcs with new Fixed Field Alternating Gradient (FFA) arcs, roughly doubling the energy. These FFA arcs will use permanent magnets in a Halbach configuration to shape their fields. The design involves new optics for the linacs and remaining electromagnetic arcs, as well as new electromagnetic separators. These feed into the permanent magnet FFA arcs. We also report on ongoing studies of the dynamics of the beams, and an experiment to measure the effects of radiation on the permanent magnets.",
+      "authors": [],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "",
+      "paper_url": "https://meow.elettra.eu/97/pdf/WEZN01.pdf",
+      "poster_url": "",
+      "doi": "https://doi.org/10.18429/JACoW-NAPAC2025-WEZN01",
+      "page_number": "",
+      "presentation_available": false,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 1,
+  "scrape_time": "2025-11-04 00:04:16"
+}

@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+
+        Beam Instrumentation, Controls, AI/ML, and Operational Aspects (Invited)
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        NAPAC2025 - Proceedings Sacramento, CA, USA
+
+
+Home
+        — Session
+        — Classification
+        — Authors 
+Institutes
+        — DOI of Institutes
+        — Keywords
+
+
+
+
+
+
+
+
+
+THXN
+
+
+                -
+            
+
+                Beam Instrumentation, Controls, AI/ML, and Operational Aspects (Invited)
+            
+
+                14 Aug 2025, 09:00 -
+                09:30
+            
+
+
+THXN01Advanced ML methods for beam tuning at FRIB894Experiments with rare isotope beams at FRIB are highly time-constrained, making rapid setup and delivery of high-quality ion beams critical to maximizing scientific output. The Bayesian framework is particularly well-suited for this challenge, offering sample-efficient optimization, principled incorporation of prior knowledge, and uncertainty-aware inference. In particular, Bayesian Optimization (BO) has proven to be an efficient and general approach for the non-sequential, static nature of beam-tuning tasks. To further accelerate convergence, Prior-Mean-Assisted Bayesian Optimization (pmBO) was developed, enabling rapid adaptation from prior belief to real-time machine conditions with minimal computational overhead. In parallel, a virtual diagnostic for the beam’s transverse quadrupolar moment (BPM-Q) has been developed to provide non-invasive, fast measurements of beam envelope information. To optimize the reconstruction of Courant-Snyder parameters from BPM-Q data, Bayesian Active Learning (BAL), employing a differentiable beam envelope simulator as a surrogate model, has been implemented. Together, these developments illustrate the power of Bayesian methods in achieving faster, more accurate beam-tuning.K. Hwang, A. Plastun, J. Wan, K. Fukushima, P. Ostroumov, Q. Zhao, T. Maruta, T. Zhang  Facility for Rare Isotope BeamsPaper: THXN01DOI: reference for this paper: 10.18429/JACoW-NAPAC2025-THXN01About:  Received: 08 Aug 2025 — Revised: 12 Aug 2025 — Accepted: 15 Aug 2025 — Issue date: 08 Oct 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+
+
+

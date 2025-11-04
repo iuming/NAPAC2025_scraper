@@ -1,0 +1,26 @@
+{
+  "session_info": {
+    "id": "TUYD",
+    "name": "TUYD - Hadron Accelerators (Invited)",
+    "url": "https://meow.elettra.eu/97/session/1170-tuyd/index.html"
+  },
+  "papers": [
+    {
+      "paper_id": "TUYD01",
+      "title": "Laser Assisted Charge Exchange injection at the Spallation Neutron Source298Laser Assisted Charge Exchange (LACE) technology is being developed to replace foil-based charge exchange injection in high power H- accelerators. The possibility of replacing the foil with field-stripping will greatly reduce injection losses, and therefore is a promising technology for future high-intensity multi-megawatt power H- beams. The technique of LACE has been demonstrated but not in a configuration that allows injection of beam into a ring. This talk will present recent progress on design of a demonstrator at SNS that will allow injection into the SNS ring. The committee also hopes that this talk will review previous experimental results from LACE feasibility studies.",
+      "authors": [],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "",
+      "paper_url": "https://meow.elettra.eu/97/pdf/TUYD01.pdf",
+      "poster_url": "",
+      "doi": "https://doi.org/10.18429/JACoW-NAPAC2025-TUYD01",
+      "page_number": "",
+      "presentation_available": false,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 1,
+  "scrape_time": "2025-11-03 23:58:14"
+}
