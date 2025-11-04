@@ -1,7 +1,7 @@
 Session: SUP - Sunday Student Poster Session
 Session ID: SUP
 URL: https://meow.elettra.eu/97/session/1160-sup/index.html
-Scrape time: 2025-11-03 23:52:58
+Scrape time: 2025-11-04 09:04:39
 Paper count: 67
 Available presentations: 0/67
 Available papers: 66/67

@@ -1,7 +1,7 @@
 Session: MOYN - Photon Sources and Electron Accelerators (Invited)
 Session ID: MOYN
 URL: https://meow.elettra.eu/97/session/1164-moyn/index.html
-Scrape time: 2025-11-03 23:54:33
+Scrape time: 2025-11-04 09:07:01
 Paper count: 3
 Available presentations: 0/3
 Available papers: 2/3

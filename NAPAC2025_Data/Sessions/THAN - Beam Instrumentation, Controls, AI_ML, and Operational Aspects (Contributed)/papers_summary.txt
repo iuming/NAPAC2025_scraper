@@ -1,7 +1,7 @@
 Session: THAN - Beam Instrumentation, Controls, AI/ML, and Operational Aspects (Contributed)
 Session ID: THAN
 URL: https://meow.elettra.eu/97/session/1191-than/index.html
-Scrape time: 2025-11-04 00:08:33
+Scrape time: 2025-11-04 09:36:10
 Paper count: 3
 Available presentations: 0/3
 Available papers: 3/3

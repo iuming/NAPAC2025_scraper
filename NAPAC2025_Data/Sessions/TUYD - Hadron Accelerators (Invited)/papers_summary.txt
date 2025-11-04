@@ -1,7 +1,7 @@
 Session: TUYD - Hadron Accelerators (Invited)
 Session ID: TUYD
 URL: https://meow.elettra.eu/97/session/1170-tuyd/index.html
-Scrape time: 2025-11-03 23:58:14
+Scrape time: 2025-11-04 09:13:11
 Paper count: 1
 Available presentations: 0/1
 Available papers: 1/1

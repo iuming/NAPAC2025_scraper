@@ -1,6 +1,6 @@
 NAPAC2025 Conference Complete Scraping Report
 ============================================================
-Scrape completion time: 2025-11-04 00:12:45
+Scrape completion time: 2025-11-04 09:43:28
 Sessions processed: 44
 Total papers: 476
 Available presentations: 0

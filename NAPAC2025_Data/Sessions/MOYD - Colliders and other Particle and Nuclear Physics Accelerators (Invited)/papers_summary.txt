@@ -1,7 +1,7 @@
 Session: MOYD - Colliders and other Particle and Nuclear Physics Accelerators (Invited)
 Session ID: MOYD
 URL: https://meow.elettra.eu/97/session/1163-moyd/index.html
-Scrape time: 2025-11-03 23:54:15
+Scrape time: 2025-11-04 09:05:59
 Paper count: 2
 Available presentations: 0/2
 Available papers: 2/2

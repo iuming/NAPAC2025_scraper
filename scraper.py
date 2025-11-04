@@ -429,16 +429,14 @@ class NAPAC2025Scraper:
             session_dir = self.output_dir / folder / self.safe_filename(session_name)
             session_dir.mkdir(exist_ok=True, parents=True)
             
+            # Use simple naming: PAPERID.pdf, PAPERID_talk.pdf, PAPERID_poster.pdf
             suffix = "_talk" if file_type == "presentation" else ("_poster" if file_type == "poster" else "")
-            filename = f"{paper_info['paper_id']}{suffix} - {paper_info['title']}"
-            safe_name = self.safe_filename(filename)
-            if not safe_name.endswith('.pdf'):
-                safe_name += '.pdf'
+            filename = f"{paper_info['paper_id']}{suffix}.pdf"
             
-            filepath = session_dir / safe_name
+            filepath = session_dir / filename
             
             if filepath.exists():
-                self.logger.info(f"{file_type.title()} already exists, skipping: {safe_name}")
+                self.logger.info(f"{file_type.title()} already exists, skipping: {filename}")
                 return True
             
             response = self.session.get(file_url, stream=True, timeout=60)
@@ -453,7 +451,7 @@ class NAPAC2025Scraper:
                 for chunk in response.iter_content(chunk_size=8192):
                     f.write(chunk)
             
-            self.logger.info(f"✅ Downloaded {file_type}: {safe_name} ({content_length} bytes)")
+            self.logger.info(f"✅ Downloaded {file_type}: {filename} ({content_length} bytes)")
             return True
             
         except Exception as e:

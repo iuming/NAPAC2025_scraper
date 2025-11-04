@@ -1,7 +1,7 @@
 Session: MOZN - Novel Particle Sources, Acceleration Techniques, and their Applications (Invited)
 Session ID: MOZN
 URL: https://meow.elettra.eu/97/session/1166-mozn/index.html
-Scrape time: 2025-11-03 23:54:44
+Scrape time: 2025-11-04 09:07:17
 Paper count: 1
 Available presentations: 0/1
 Available papers: 1/1

@@ -1,7 +1,7 @@
 Session: THYN - Accelerator Technology and Sustainability (Invited)
 Session ID: THYN
 URL: https://meow.elettra.eu/97/session/1193-thyn/index.html
-Scrape time: 2025-11-04 00:08:56
+Scrape time: 2025-11-04 09:37:03
 Paper count: 1
 Available presentations: 0/1
 Available papers: 1/1

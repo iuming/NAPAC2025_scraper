@@ -1,7 +1,7 @@
 Session: WEYN - Beam Instrumentation, Controls, AI/ML, and Operational Aspects (Invited)
 Session ID: WEYN
 URL: https://meow.elettra.eu/97/session/1183-weyn/index.html
-Scrape time: 2025-11-04 00:04:01
+Scrape time: 2025-11-04 09:27:02
 Paper count: 3
 Available presentations: 0/3
 Available papers: 3/3

@@ -1,7 +1,7 @@
 Session: WEZN - Photon Sources and Electron Accelerators (Invited)
 Session ID: WEZN
 URL: https://meow.elettra.eu/97/session/1201-wezn/index.html
-Scrape time: 2025-11-04 00:04:16
+Scrape time: 2025-11-04 09:27:50
 Paper count: 1
 Available presentations: 0/1
 Available papers: 1/1

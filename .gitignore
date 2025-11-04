@@ -140,16 +140,5 @@ Thumbs.db
 *.bak
 *.backup
 
-# Large data files (but keep sample data)
-NAPAC2025_Data/Presentations/
-NAPAC2025_Data/Papers/
-NAPAC2025_Data/Posters/
-*.pdf
 
-# Keep structure but ignore large content
-!NAPAC2025_Data/
-!NAPAC2025_Data/Sessions/
-!NAPAC2025_Data/*.csv
-!NAPAC2025_Data/*.json
-!NAPAC2025_Data/*.txt
 
